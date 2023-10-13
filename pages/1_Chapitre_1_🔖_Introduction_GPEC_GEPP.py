@@ -92,6 +92,19 @@ if st.button("Continuer vers Chap.1 - **D/ Lier la planification de la main-d'œ
     
     st.subheader("📗Chap.1-D/ Planification et Stratégie commerciale📘")
 
+    st.markdown("La planification stratégique de la main-d'œuvre n'est pas un processus autonome; elle est étroitement liée à la stratégie d'entreprise d'une organisation. Elle veille à ce que le capital humain d'une organisation appuie et encourage l'exécution du plan stratégique.") 
+    
+    st.markdown("Le lien entre la planification stratégique de la main-d'œuvre et la stratégie d'entreprise est un lien dynamique, où les RH travaillent en collaboration avec la Direction pour traduire les objectifs de l'entreprise en planification réalisable de la main-d'œuvre.")
+
+    st.markdown("Ce lien est essentiel pour plusieurs raisons :")
+
+    st.markdown("- **Agilité** : La planification stratégique permet à une organisation de s'adapter rapidement aux changements de l'environnement extérieur, aux tendances de l'industrie et à l'évolution des demandes des clients. Une main-d'œuvre souple peut être restructurée pour relever de nouveaux défis et de nouvelles opportunités.")
+
+    st.markdown("- **Efficacité, rentabilité** : Lorsque la main-d'œuvre est stratégiquement planifiée, les ressources sont allouées de manière efficace, ce qui réduit les dépenses inutiles liées à l'embauche, à la formation et au renouvellement du personnel.")
+
+    st.markdown("- **Avantage concurrentiel** : Une main-d'œuvre bien alignée peut être une source d'avantage concurrentiel, car elle soutient la proposition de valeur unique de l'organisation et l'aide à se démarquer sur le marché.")
+
+    
     st.markdown("")
 
 
