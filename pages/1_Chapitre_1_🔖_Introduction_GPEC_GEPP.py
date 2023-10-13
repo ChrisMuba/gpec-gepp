@@ -85,11 +85,6 @@ if st.button("Continuer vers la suite du Chap.1 - **C/ Rôle des RH dans la plan
 
     st.markdown("- **Assurer l'alignement aux buts stratégiques** : veiller à ce que les effectifs de l'organisation soient alignés sur ses buts et objectifs stratégiques. Cet alignement est essentiel pour assurer le succès des entreprises.")
     
-
-    st.markdown("- **Créer des tableaux de bord** : après avoir appropriées, nous pouvons créer")
-
-    st.markdown("📌*Les outils pour créer des tableaux de bords RH sont nombreux : parmi les solutions « presse-bouton » mais peu flexibles certaines bien rodées sont Power BI, Tableau, Qlik ou Looker Studio ; en revanche si on sait écrire du code, les possibilités sont presque sans limites avec Streamlit (framework Python🐍), Flexdashboard (framework R), Shiny (R / Python🐍), etc... .*")
-
     st.markdown("")
     
     
