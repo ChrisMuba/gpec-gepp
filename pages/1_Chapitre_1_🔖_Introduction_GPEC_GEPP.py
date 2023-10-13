@@ -73,7 +73,7 @@ if st.button("Continuer vers la suite du Chap.1 - **C/ Rôle des RH dans la plan
     
     st.markdown("**Historiquement, les RH étaient considérées avant tout comme une fonction administrative**, responsable du recrutement, de la formation et de la gestion du personnel.") 
     
-    st.markdown("Toutefois, dans l'environnement concurrentiel d'aujourd'hui, les RH sont devenues un **partenaire stratégique** au sein des organisations. Les RH ne sont plus confinés aux questions de routine du personnel ; ils jouent un rôle essentiel dans l'élaboration de la stratégie globale de l'entreprise.") 
+    st.markdown("Toutefois, dans l'environnement concurrentiel d'aujourd'hui, les RH sont devenues un **partenaire stratégique** au sein des organisations. Les RH ne sont plus confinés aux questions de routine du personnel; ils jouent un rôle essentiel dans l'élaboration de la stratégie globale de l'entreprise.") 
     
     st.markdown("La planification stratégique de la main-d'œuvre témoigne de cette transformation, car elle place les ressources humaines au cœur de la prise de décisions stratégiques.") 
 
@@ -90,6 +90,12 @@ if st.button("Continuer vers la suite du Chap.1 - **C/ Rôle des RH dans la plan
 
     st.markdown("📌*Les outils pour créer des tableaux de bords RH sont nombreux : parmi les solutions « presse-bouton » mais peu flexibles certaines bien rodées sont Power BI, Tableau, Qlik ou Looker Studio ; en revanche si on sait écrire du code, les possibilités sont presque sans limites avec Streamlit (framework Python🐍), Flexdashboard (framework R), Shiny (R / Python🐍), etc... .*")
 
+    st.markdown("")
+    
+    
+if st.button("Continuer vers la suite du Chap.1 - **D/ Lier la planification de la main-d'œuvre à la stratégie commerciale**"):
+    
+    st.subheader("📗Chap.1-D/ Planification stratégique et Stratégie commerciale📘")
 
     st.markdown("")
 
