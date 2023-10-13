@@ -71,7 +71,14 @@ if st.button("Continuer vers la suite du Chap.1 - **C/ Rôle des RH dans la plan
     
     st.subheader("📗Chap.1-C/ RH et planification stratégique📘")
     
-    st.markdown("**Le rôle principal des statistiques appliquées aux RH est d'aider professionnels RH à prendre des décisions éclairées, basées sur des données pertinentes**.") 
+    st.markdown("**Historiquement, les RH étaient considérées avant tout comme une fonction administrative**, responsable du recrutement, de la formation et de la gestion du personnel.") 
+    
+    st.markdown("Toutefois, dans l'environnement concurrentiel d'aujourd'hui, les RH sont devenues un **partenaire stratégique** au sein des organisations. Les RH ne sont plus confinés aux questions de routine du personnel; ils jouent un rôle essentiel dans l'élaboration de la stratégie globale de l'entreprise.") 
+    
+    st.markdown("La planification stratégique de la main-d'œuvre témoigne de cette transformation, car elle place les ressources humaines au cœur de la prise de décisions stratégiques.") 
+
+
+    
     
     st.markdown("Pour y arriver ils peuvent : ") 
                 
