@@ -19,6 +19,7 @@ st.markdown("La **GPEC** (Gestion Prévisionnelle des Emplois et des Compétence
 
 st.markdown("Alors que la :blue[GPEC] est une démarche plus globale qui vise à mettre en adéquation les effectifs, les emplois et les compétences avec les objectifs stratégiques et l'environnement externe de l'entreprise ; La :blue[GEPP] va être une démarche plus focalisée sur les parcours professionnels des salariés actuels de l'entreprise. Elle visera à favoriser l'évolution professionnelle des salariés en fonction de leurs compétences et de leurs aspirations.")
 
+st.markdown("La :blue[planification stratégique des effectifs] est un aspect crucial de la gestion moderne des RH. Il s'agit d'un processus systématique et axé sur les :blue[données] qui garantit que la main-d'œuvre d'une organisation est alignée sur ses objectifs stratégiques et ses buts futurs. Dans un paysage d'entreprise en constante évolution, où les talents sont une ressource précieuse, la planification stratégique des effectifs permet aux RH de relever de manière proactive les problèmes de la main-d'œuvre, d'optimiser l'utilisation des talents et de se préparer pour l'avenir.")
 
 st.markdown("")
 
