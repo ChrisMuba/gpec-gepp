@@ -54,7 +54,7 @@ if st.button("Continuer vers la suite du Chap.1 - **B/ Planification stratégiqu
 
     st.markdown("La :blue[planification stratégique des effectifs] est un aspect crucial de la gestion moderne des RH. Il s'agit d'un processus systématique et axé sur les :blue[données] qui garantit que la main-d'œuvre d'une organisation est alignée sur ses objectifs stratégiques et ses buts futurs. Dans un paysage d'entreprise en constante évolution, où les talents sont une ressource précieuse, la planification stratégique des effectifs permet aux RH de relever de manière proactive les problèmes de la main-d'œuvre, d'optimiser l'utilisation des talents et de se préparer pour l'avenir.")
 
-    st.st.markdown("**B/ Qu'est-ce que la planification stratégique de la main-d'œuvre**")
+    st.markdown("**B/ Qu'est-ce que la planification stratégique de la main-d'œuvre**")
     
     st.markdown("La planification stratégique de la main-d'œuvre peut être définie comme un processus actif d'**analyse**, de **prévision** et d'**alignement des effectifs** d'une organisation pour atteindre ses buts et objectifs stratégiques.") 
     
