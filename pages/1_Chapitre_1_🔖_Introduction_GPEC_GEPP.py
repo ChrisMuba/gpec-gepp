@@ -48,9 +48,9 @@ with st.sidebar:
 with st.sidebar:
         st.image('GIF/GIF_Chap1B.gif')
 
-if st.button("Continuer vers la suite du Chap.1 - **B/ Types de données et sources de données**"):
+if st.button("Continuer vers la suite du Chap.1 - **B/ Qu'est-ce que la planification stratégique de la main-d'œuvre ?**"):
     
-    st.subheader("📈Chap.1-B/ Types de données et sources de données📉")
+    st.subheader("📗Chap.1-B/ Qu'est-ce que la planification stratégique de la main-d'œuvre ?📘")
     
     st.markdown("En GRH les données jouent un rôle crucial dans la prise de décision. Les données peuvent être classées en deux types principaux : **catégorielles** et **numériques**.")
 
