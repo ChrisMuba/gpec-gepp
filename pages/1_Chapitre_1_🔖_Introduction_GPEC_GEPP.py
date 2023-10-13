@@ -33,7 +33,15 @@ if st.button("Cliquez pour acceder au Chap.1 - **A/ Étapes de la GPEC et de la 
     st.markdown("- **Planification des effectifs** : anticipation des besoins futurs en effectifs en fonction des évolutions des emplois.")
     st.markdown("- **Développement des compétences** : mise en place des actions de formation et de développement des compétences pour adapter les salariés aux besoins futurs.")
     
-    st.markdown("- Les **statistiques inférentielles**, quant à elles, **consistent à tirer des inférences ou des conclusions sur une population à partir d'un échantillon de données**. Ils comprennent **l'estimation des paramètres de la population et des tests d'hypothèses pour évaluer la validité des affirmations statistiques**.")
+    st.markdown("")
+
+    st.subheader("Etapes de la :blue[GEPP] :")
+    
+    st.markdown("- **Accompagnement des parcours professionnels** : mise en place des outils et des dispositifs pour identifier les compétences des salariés et accompagner la construction de leurs parcours professionnels.")
+    st.markdown("- **Développement des compétences** : proposition des actions de formation et de développement des compétences pour aider les salariés à évoluer professionnellement.")
+    st.markdown("- **Planification des effectifs** : favorisation de la mobilité professionnelle des salariés au sein de l'entreprise ou vers l'extérieur.")
+
+
 # Add the "made with ❤️ by ..." text in the sidebar
 with st.sidebar:
     st.write("Made with ❤️ by Chris MUBA")
