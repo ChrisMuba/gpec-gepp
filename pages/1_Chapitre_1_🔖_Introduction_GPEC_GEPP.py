@@ -69,7 +69,7 @@ if st.button("Continuer vers la suite du Chap.1 - **B/ Planification stratégiqu
     
 if st.button("Continuer vers la suite du Chap.1 - **C/ Rôle des RH dans la planification stratégique**"):
     
-    st.subheader("📗Chap.1-C/ Rôle des RH dans la planification stratégique📘")
+    st.subheader("📗Chap.1-C/ RH et planification stratégique📘")
     
     st.markdown("**Le rôle principal des statistiques appliquées aux RH est d'aider professionnels RH à prendre des décisions éclairées, basées sur des données pertinentes**.") 
     
