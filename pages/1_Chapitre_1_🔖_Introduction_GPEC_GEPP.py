@@ -104,7 +104,13 @@ if st.button("Continuer vers Chap.1 - **D/ Lier la planification de la main-d'œ
 
     st.markdown("- **Avantage concurrentiel** : Une main-d'œuvre bien alignée peut être une source d'avantage concurrentiel, car elle soutient la proposition de valeur unique de l'organisation et l'aide à se démarquer sur le marché.")
 
+    st.markdown("")
     
+    st.markdown("La planification stratégique de la main-d'œuvre est donc une pratique essentielle car elle donne les outils et les connaissances nécessaires pour aligner la main-d'œuvre sur les objectifs stratégiques d'une organisation.") 
+    
+    st.markdown("En comprenant l'importance de la planification stratégique et son lien avec la stratégie d'entreprise, les RH peuvent stimuler le succès organisationnel, favoriser l'innovation et donc aider l'organisation à rester compétitive dans un paysage dynamique et concurrentiel.")
+    
+                
     st.markdown("")
 
 
