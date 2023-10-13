@@ -13,7 +13,7 @@ st.sidebar.markdown("# Quiz du chapitre 1")
 with st.sidebar:
     st.write("Made with ❤️ by Chris MUBA")
 with st.sidebar:
-        st.image('GIF/analyze_this.gif')
+        st.image('GIF/copiste.gif')
 
 st.title("Introduction aux statistiques")
 
