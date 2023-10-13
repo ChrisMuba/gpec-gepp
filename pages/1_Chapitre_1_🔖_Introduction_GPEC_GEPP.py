@@ -95,7 +95,7 @@ if st.button("Continuer vers la suite du Chap.1 - **C/ Rôle des RH dans la plan
     
 if st.button("Continuer vers Chap.1 - **D/ Lier la planification de la main-d'œuvre à la stratégie commerciale**"):
     
-    st.subheader("📗Chap.1-D/ Planification stratégique et Stratégie commerciale📘")
+    st.subheader("📗Chap.1-D/ Planification et Stratégie commerciale📘")
 
     st.markdown("")
 
