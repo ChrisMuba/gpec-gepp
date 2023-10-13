@@ -19,7 +19,7 @@ st.caption("*Diplômé des Master Gestion & Master Sciences (IAE Dijon & UB Dijo
 st.caption("Vous souhaitez engager une démarche de *GEPP / GPEC* ? Parlons-en 👉🏾 https://www.linkedin.com/in/chris-muba-io 🌐")
 
 # Explanation
-#with st.expander("✨:blue[Pourquoi ce cours ?]✨"):
+with st.expander("✨:blue[Pourquoi ce cours ?]✨"):
     st.write("""
     Êtes-vous un professionnel RH cherchant à exploiter la puissance de l’analyse des données pour une meilleure prise de décision ? 
     
