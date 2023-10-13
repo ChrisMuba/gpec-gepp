@@ -23,8 +23,8 @@ st.markdown("La :blue[planification stratégique des effectifs] est un aspect cr
 
 st.markdown("")
 
-if st.button("Cliquez pour acceder au Chap.1 - **A/ Statistiques descriptives vs inférentielles**"):
-    st.subheader("📈Chap.1-A/ Statistiques descriptives vs inférentielles📉")
+if st.button("Cliquez pour acceder au Chap.1 - **A/ Étapes de la GPEC et de la GEPP**"):
+    st.subheader("📘Chap.1-A/ Étapes de la GPEC et de la GEPP📘")
     
     st.markdown("- Les **statistiques descriptives traitent de la collecte, de l'analyse et de la présentation des données**. Elles comprennent le **calcul des mesures de tendance centrale** telles que la **moyenne**, la **médiane** et le **mode**. Ainsi que des **mesures de variabilité** telle que la **gamme** ou **l'écart-type** pour **décrire et résumer les données**.")
     
