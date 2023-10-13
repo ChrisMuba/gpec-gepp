@@ -8,7 +8,7 @@ import streamlit as st
 
 st.sidebar.success("Cliquez sur un :blue[chapitre] ou un :blue[quiz]")
 
-st.title("Cours de Statistiques :blue[appliquées aux Ressources Humaines]")
+st.title("GPEC - GEPP : :blue[Planification stratégique des effectifs]")
 
 st.subheader("Formateur : Christian MUBA.")
 
