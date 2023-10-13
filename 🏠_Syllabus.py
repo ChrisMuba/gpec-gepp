@@ -93,7 +93,7 @@ def redirect_button(url: str, text: str= None, color="#FD504D"):
         """,
         unsafe_allow_html=True
         )
-redirect_button("https://cours-stats-rh.streamlit.app/Chapitre_1_🔖_Introduction_aux_statistiques","Aller au chapitre 1")
+redirect_button("https://gpec-gepp.streamlit.app/Chapitre_1_🔖_Introduction_GPEC_GEPP","Aller au chapitre 1")
 
 
 
