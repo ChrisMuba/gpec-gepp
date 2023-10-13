@@ -26,7 +26,7 @@ st.markdown("")
 if st.button("Cliquez pour acceder au Chap.1 - **A/ Étapes de la GPEC et de la GEPP**"):
     st.subheader("📗Chap.1-A/ Étapes de la GPEC et de la GEPP📘")
 
-    st.title("Etapes de la :blue[GPEC] :")
+    st.subheader("Etapes de la :blue[GPEC] :")
     
     st.markdown("- **Analyse de l'environnement** : analyse des évolutions économiques, technologiques, sociales et démographiques qui impacteront les besoins futurs en compétences.")
     st.markdown("- **Évaluation des emplois** : identification des compétences et des connaissances nécessaires pour chaque emploi.")
