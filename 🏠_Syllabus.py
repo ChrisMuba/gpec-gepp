@@ -16,7 +16,7 @@ st.caption("*Ancien coordinateur apprentissage CFA académique / Académie de Di
 
 st.caption("*Diplômé des Master Gestion & Master Sciences (IAE Dijon & UB Dijon)*")
 
-st.caption("Vous souhaitez engager une démarche de **GEPP / GPEC** ? Parlons-en 👉🏾 https://www.linkedin.com/in/chris-muba-io 🌐")
+st.caption("Vous souhaitez engager une démarche de *GEPP / GPEC* ? Parlons-en 👉🏾 https://www.linkedin.com/in/chris-muba-io 🌐")
 
 # Explanation
 with st.expander("✨:blue[Pourquoi ce cours ?]✨"):
@@ -45,16 +45,18 @@ with st.expander("✨:blue[Pourquoi ce cours ?]✨"):
 
 st.subheader("Description du cours")
 
-st.markdown("Ce cours offre une introduction aux statistiques pour les professionnels des ressources humaines. L'accent est mis sur la compréhension de la façon d'analyser et d'interpréter les données statistiques pour prendre des décisions éclairées. Les sujets couverts comprennent la collecte de données, les mesures de la tendance centrale et de la variabilité, la probabilité, les tests d'hypothèses, la corrélation et la régression.")
+st.markdown("Ce cours pratique est conçu pour doter les professionnels des RH des connaissances et des compétences requises pour une planification stratégique efficace des effectifs. Les participants apprendront à aligner les effectifs de leur organisation sur ses objectifs stratégiques, à analyser les besoins actuels et futurs en talents et à élaborer des stratégies pour combler les faiblesses en matière de main-d'œuvre.")
 
 st.subheader("🚀Objectifs d'apprentissage🚀")
 
-st.markdown("A la fin de ce cours, vous serez capable de :")
+st.markdown("À la fin de ce cours, les participants devraient être capables de :")
 
-st.markdown("🎯Analyser des données RH à l'aide de statistiques descriptives et de techniques de visualisation")
-st.markdown("🎯Saisir les bases de la probabilité et des distributions")
-st.markdown("🎯Appliquer des statistiques inférentielles pour tirer des conclusions à partir de données RH")
-st.markdown("🎯Utiliser la corrélation et régression pour identifier les tendances et modèles dans vos données RH")
+st.markdown("🎯Comprendre le concept et l'importance de la planification stratégique des effectifs en RH.")
+st.markdown("🎯Effectuer une analyse approfondie de la main-d’œuvre actuelle et identifier les forces et les faiblesses.")
+st.markdown("🎯Alignez la planification des effectifs avec les objectifs stratégiques de l’organisation.")
+st.markdown("🎯Élaborer un plan stratégique en matière de main-d’œuvre pour combler les manques et les excédents de talents.")
+st.markdown("🎯Mettre en œuvre, surveiller et évaluer l’efficacité du plan stratégique en matière de main-d’œuvre.")
+st.markdown("🎯Anticiper et s’adapter à l’évolution des tendances et des défis en matière de main-d’œuvre.")
 
 with st.sidebar:
     st.image('GIF/GIF_loading_data.gif')
