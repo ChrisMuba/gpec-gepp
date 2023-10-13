@@ -17,7 +17,7 @@ st.title("Introduction à la GPEC, GEPP et à la planification stratégique")
 
 st.markdown("La **GPEC** (Gestion Prévisionnelle des Emplois et des Compétences) et la **GEPP** (Gestion des Emplois et des Parcours Professionnels) sont deux démarches de GRH qui visent à anticiper les besoins futurs en compétences et en effectifs au sein d'une organisation.")
 
-st.markdown("Alors que la GPEC est une démarche plus globale qui vise à mettre en adéquation les effectifs, les emplois et les compétences avec les objectifs stratégiques et l'environnement externe de l'entreprise ; La GEPP va être une démarche plus focalisée sur les parcours professionnels des salariés actuels de l'entreprise. Et visera à favoriser l'évolution professionnelle des salariés en fonction de leurs compétences et de leurs aspirations.")
+st.markdown("Alors que la :blue[GPEC] est une démarche plus globale qui vise à mettre en adéquation les effectifs, les emplois et les compétences avec les objectifs stratégiques et l'environnement externe de l'entreprise ; La :blue[GEPP] va être une démarche plus focalisée sur les parcours professionnels des salariés actuels de l'entreprise. Elle visera à favoriser l'évolution professionnelle des salariés en fonction de leurs compétences et de leurs aspirations.")
 
 
 st.markdown("")
