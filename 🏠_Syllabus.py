@@ -59,7 +59,7 @@ st.markdown("🎯Mettre en œuvre, surveiller et évaluer l’efficacité du pla
 st.markdown("🎯Anticiper et s’adapter à l’évolution des tendances et des défis en matière de main-d’œuvre.")
 
 with st.sidebar:
-    st.image('GIF/GIF_loading_data.gif')
+    st.image('GIF/Graph.gif')
 
 
 st.markdown("")
