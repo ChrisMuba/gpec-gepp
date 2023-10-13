@@ -13,9 +13,12 @@ import pandas as pd
 st.markdown("# Chapitre 1")
 st.sidebar.markdown("# Chapitre 1")
 
-st.title("Introduction aux statistiques")
+st.title("Introduction à la GPEC, GEPP et à la planification stratégique")
 
-st.markdown("**Les statistiques** sont une branche des mathématiques qui **traitent de la collecte, de l'analyse, de l'interprétation, de la présentation et de l'organisation des données**. Deux grandes branches des statistiques sont les **statistiques descriptives** et les **statistiques inférentielles**.")
+st.markdown("La **GPEC** (Gestion Prévisionnelle des Emplois et des Compétences) et la **GEPP** (Gestion des Emplois et des Parcours Professionnels) sont deux démarches de GRH qui visent à anticiper les besoins futurs en compétences et en effectifs au sein d'une organisation.")
+
+st.markdown("Alors que la GPEC est une démarche plus globale qui vise à mettre en adéquation les effectifs, les emplois et les compétences avec les objectifs stratégiques et l'environnement externe de l'entreprise ; La GEPP va être une démarche plus focalisée sur les parcours professionnels des salariés actuels de l'entreprise. Et visera à favoriser l'évolution professionnelle des salariés en fonction de leurs compétences et de leurs aspirations.")
+
 
 st.markdown("")
 
