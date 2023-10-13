@@ -25,8 +25,13 @@ st.markdown("")
 
 if st.button("Cliquez pour acceder au Chap.1 - **A/ Étapes de la GPEC et de la GEPP**"):
     st.subheader("📗Chap.1-A/ Étapes de la GPEC et de la GEPP📘")
+
+    st.markdown("La :blue[GPEC] comprend les étapes suivantes :")
     
-    st.markdown("- Les **statistiques descriptives traitent de la collecte, de l'analyse et de la présentation des données**. Elles comprennent le **calcul des mesures de tendance centrale** telles que la **moyenne**, la **médiane** et le **mode**. Ainsi que des **mesures de variabilité** telle que la **gamme** ou **l'écart-type** pour **décrire et résumer les données**.")
+    st.markdown("- **Analyse de l'environnement** : analyse des évolutions économiques, technologiques, sociales et démographiques qui impacteront les besoins futurs en compétences.")
+    st.markdown("- **Évaluation des emplois** : identification des compétences et des connaissances nécessaires pour chaque emploi.")
+    st.markdown("- **Planification des effectifs** : anticipation des besoins futurs en effectifs en fonction des évolutions des emplois.")
+    st.markdown("- **Développement des compétences** : mise en place des actions de formation et de développement des compétences pour adapter les salariés aux besoins futurs.")
     
     st.markdown("- Les **statistiques inférentielles**, quant à elles, **consistent à tirer des inférences ou des conclusions sur une population à partir d'un échantillon de données**. Ils comprennent **l'estimation des paramètres de la population et des tests d'hypothèses pour évaluer la validité des affirmations statistiques**.")
 # Add the "made with ❤️ by ..." text in the sidebar
