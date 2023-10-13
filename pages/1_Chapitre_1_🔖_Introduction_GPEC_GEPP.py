@@ -48,11 +48,15 @@ with st.sidebar:
 with st.sidebar:
         st.image('GIF/GIF_Chap1B.gif')
 
-if st.button("Continuer vers la suite du Chap.1 - **B/ Qu'est-ce que la planification stratégique de la main-d'œuvre ?**"):
+if st.button("Continuer vers la suite du Chap.1 - **B/ Planification stratégique**"):
     
-    st.subheader("📗Chap.1-B/ Qu'est-ce que la planification stratégique de la main-d'œuvre ?📘")
+    st.subheader("📗Chap.1-B/ Qu'est-ce que la planification stratégique ?📘")
     
-    st.markdown("En GRH les données jouent un rôle crucial dans la prise de décision. Les données peuvent être classées en deux types principaux : **catégorielles** et **numériques**.")
+    st.markdown("La planification stratégique de la main-d'œuvre peut être définie comme un processus actif d'**analyse**, de **prévision** et d'**alignement des effectifs** d'une organisation pour atteindre ses buts et objectifs stratégiques.") 
+    
+    st.markdown("Elle va au-delà des fonctions traditionnelles des RH et se concentre sur la situation dans son ensemble. La planification stratégique de la main-d'œuvre consiste à **comprendre les effectifs actuels d'une organisation, à évaluer ses capacités et à anticiper les compétences et les talents nécessaires pour assurer le succès futur de l'entreprise**.") 
+    
+    st.markdown("En substance, **la planification stratégique vise à faire en sorte qu'une organisation ait les bonnes personnes au bon endroit au bon moment**.")
 
     st.markdown("")
     
