@@ -137,7 +137,7 @@ if st.button("Continuer vers la suite du Chap.2 - **C/ Réaliser une analyse des
         """,
         unsafe_allow_html=True
         )
-    redirect_button("https://gpec-gepp.streamlit.app/Quiz_2_-_Analyse_de_la_main-d'œuvre_et_collecte_de_données📉")
+    redirect_button("https://gpec-gepp.streamlit.app/Quiz_2_-_Analyse_de_la_main-d'œuvre_et_collecte_de_données📉","Quiz du chapitre 2")
 
     
     
