@@ -62,7 +62,7 @@ if st.button("Cliquez pour acceder au Chap.2 - **A/ Collecte et analyse des donn
 with st.sidebar:
     st.write("Made with ❤️ by Chris MUBA")
 with st.sidebar:
-        st.image('GIF/GIF_Chap1B.gif')
+        st.image('GIF/take_notes.gif')
 
 if st.button("Continuer vers la suite du Chap.2 - **B/ Mesures de la variabilité**"):
     
