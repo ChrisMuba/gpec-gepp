@@ -66,309 +66,34 @@ with st.sidebar:
 
 if st.button("Continuer vers la suite du Chap.2 - **B/ Détermination des principaux indicateurs de performance**"):
     
-    st.subheader("📈Chap.2-B/ Détermination des principaux indicateurs de performance📉")
+    st.subheader("📈Chap.2-B/ Détermination des principaux KPI📉")
     
-    st.markdown("Les mesures de variabilité sont utilisées pour décrire la dispersion (propagation) des points de données dans un ensemble de données.") 
-    st.markdown("**Il existe plusieurs mesures principales de la variabilité** :")
+    st.markdown("Les indicateurs clés de performance (KPI) sont des indicateurs critiques qui mesurent la performance et l'efficacité de votre personnel. L'identification et le suivi des bons indicateurs clés de performance sont essentielles pour prendre des décisions éclairées au cours du processus de planification stratégique de la main-d'œuvre.") 
     
-    st.markdown("- **Plage** : La plage (gamme, étendue) est la mesure de variabilité la plus simple, elle représente la différence entre les valeurs maximales et minimales dans un ensemble de données. Elle fournit une estimation approximative de la variabilité, mais est sensible aux valeurs aberrantes.")
+    st.markdown("Les indicateurs clés de performance communs pour l'analyse des effectifs sont les suivants :")
+    
+    st.markdown("- **Productivité des travailleurs** : Mesure de la production ou de la valeur générée par les employés dans un délai déterminé.")
 
-    st.markdown("**Mathématiquement, on peut l'exprimer comme suit :**")
+    st.markdown("- **Satisfaction et engagement des travailleurs** : évaluer le degré de satisfaction et d'engagement des employés au sein de l'organisation.")
 
-    st.subheader("Plage = Valeur maximale - Valeur minimale")
+    st.markdown("- ** Taux de turnover** : suivi du pourcentage d'employés qui quittent l'organisation volontairement ou involontairement.")
 
+    st.markdown("- **Délai de pourvoi** : Mmesurer le temps nécessaire pour pourvoir les postes vacants au sein de l'organisation.")
+
+    st.markdown("- **Lacunes en matière de compétences** : identifier les écarts entre les compétences dont une organisation a besoin et celles que possède son personnel.")
+
+    st.markdown("- **Pipeline de succession** : évaluer l'état de préparation des talents internes à assumer des rôles critiques à l'avenir.")
 
     st.markdown("")
-    
 
-    st.markdown("")
-
-    
-    st.markdown("**🏀Application 5**")
-
-    st.write("""Supposons que nous disposions d'un échantillon de données sur l'âge des employés d'une entreprise. 
-    
-    âges = [22, 25, 30, 35, 40, 45, 50, 55, 60 et 65 ans] 
-    
-    💡La plage de cet échantillon de données est : 65 - 22 = 43 ans.
-""")
-
+    st.markdown("La sélection et le suivi des KPI qui correspondent aux objectifs stratégiques de votre organisation sont essentiels pour suivre les progrès et identifier les domaines qui nécessitent une intervention.")
 
     st.markdown("")
 
 
-    st.markdown("Bien que cette plage puisse donner un aperçu de la répartition des âges au sein de l'entreprise, elle présente certaines limites :")
-
-    st.markdown("1. Elle ne tient pas compte de la distance entre les points de données consécutifs.")
-    st.markdown("2. Elle peut être affectée par des valeurs extrêmes ou des valeurs aberrantes.")
+if st.button("Continuer vers la suite du Chap.2 - **C/ Réaliser une analyse des écarts de compétences**"):
     
-
-    st.markdown("Pour mieux **visualiser et comprendre** la répartition des âges dans notre échantillon de données, nous pouvons utiliser d'autres représentations en plus de la plage. Certaines techniques de visualisation populaires incluent : Histogramme et Box plot.") 
-    
-    
-    st.markdown("")
-
-
-     # Import necessary libraries
-    import streamlit as st
-    import plotly.express as px
-
-# Data: Salaries in dollars
-    âges = [22, 25, 30, 35, 40, 45, 50, 55, 60, 65]
-
-# Create a box plot using Plotly Express
-    fig = px.box(x=âges, labels={'x': 'âge des employés (ans)'}, title="Box Plot de lâge des employés de l'entreprise")
-
-# Display the plot in the Streamlit app
-    st.plotly_chart(fig)
-
-# Explanation
-    with st.expander("🔮Interpretation du box plot de lâge des employés de l'entreprise"):
-        st.write("""
-    Ce **box plot** affiche la répartition des âges dans l'échantillon de données, l'axe horizontal représentant les différentes tranches d'âge.
-
-    L'intervalle interquartile **IQR** (représenté par la boite) nous montre que la majorité des employés (50 %) ont entre 30 et 55 ans.")
-    
-    L’âge médian, (représenté par la ligne verticale dans la boite) est de 42.5 ans, ce qui signifie que la moitié des employés de l'échantillon de données a plus de 42.5 ans et l'autre moitié moins : il s'agit d'une information utile à connaître, car elle peut aider à éclairer les politiques et les pratiques liées au développement et à la rétention des employés.
-
-    Ce **box plot** montre également les quartiles inférieur (Q1 = 30 ans) et supérieur (Q3 = 55 ans), qui sont représentés respectivement par les côtés gauche et droit de la boîte. Les valeurs de **Q1 et Q3** signifient respectivement que 25 % des employés ont moins de 30 ans et 25 % plus de 55 ans.
-    """)
-
-
-    st.markdown("")
-
-
-    st.markdown("")
-    
-    
-    st.markdown("- **Variance** : La variance est une mesure de variabilité plus sophistiquée que la plage. C'est une mesure de **comment** les données d'un ensemble diffèrent de la moyenne de l'ensemble.") 
-
-    # Display the theoretical formula for calculating the variance
-    st.subheader("Formule théorique de la Variance")
-    st.latex(r'Variance (\sigma^2) = \frac{\sum_{i=1}^{n}(X_i - \mu)^2}{N}')
-
-    st.markdown("Où :")
-
-    st.markdown("**σ²** représente la variance")
-
-    st.markdown("**Xᵢ** représente chaque point de données individuel")
-
-    st.markdown("**μ** représente la moyenne de l'échantillon de données")
-
-    st.markdown("**N** est le nombre total de points de données")
-
-
-    st.markdown("")
-
-
-    st.markdown("**🏀Application 6**")
-    st.markdown("❗Pour la suite nous pourrions exprimer nos **scores de satisfaction** en ESI (employee satisfaction index) mais cela n'a aucun intérêt pour illustrer le calcul de la variance, donc nous travaillerons avec les données brutes.")
-
-    st.markdown("Supposons que vous ayez mené une enquête sur l'engagement des employés et que vous ayez collecté des scores de satisfaction sur une échelle de 1 à 10, où 1 représente très insatisfait et 10 représente très satisfait. Vous avez interrogé 10 employés.")
-    
-
-    import streamlit as st
-    import pandas as pd
-    import plotly.express as px
-
-# Create a high variance dataset
-    data = {
-    'Employé': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
-    'Score de satisfaction': [1, 3, 4, 7, 9, 2, 10, 5, 8, 6]
-    }
-
-    df = pd.DataFrame(data)
-
-    # Display the dataset
-    st.write("Voici leurs scores de satisfaction :")
-    st.write(df)
-
-    st.markdown("")
-    
-
-    st.markdown("Maintenant, calculons la variance pour cet ensemble de données étape par étape :")
-
-
-    st.markdown("")
-
-
-    st.markdown("Étape 1 : **Calculons la Moyenne (**μ**) des scores de satisfaction**")
-
-    # Display the Mean
-    st.latex(r'\text{Moyenne (μ)} = \frac{\sum_{i=1}^{n}X_i}{n} = \frac{1+3+4+7+9+2+10+5+8+6​}{10} = \frac{55​}{10} = 5.5')
-
-
-    st.markdown("")
-
-    
-
-    st.markdown("Étape 2 : **Calculons les carrés des différences entre chaque point de données (Xᵢ) et la moyenne (μ) :**")
-
-
-    st.write("""
-    - Pour l'employé 1 : (1 − 5.5)² = 20.25")  
-    - Pour l'employé 2 : (3 − 5.5)² = 6.25 
-    - Pour l'employé 3 : (4 − 5.5)² = 2.25
-    - Pour l'employé 4 : (7 − 5.5)² = 2.25
-    - Pour l'employé 5 : (9 − 5.5)² = 12.25  
-    - Pour l'employé 6 : (2 − 5.5)² = 12.25 
-    - Pour l'employé 7 : (10 − 5.5)² = 20.25
-    - Pour l'employé 8 : (5 − 5.5)² = 0.25
-    - Pour l'employé 9 : (8 −5 .5)² = 6.25
-    - Pour l'employé 10 : ( 6− 5.5)² = 0.25
-    """)
-    
-
-    st.markdown("")
-
-    
-    st.markdown("Étape 3 : **Additionnons tous les carrés des différences**")
-    
-    # Display
-    st.latex(r'{\sum_{i=1}^{n}(X_i - \mu)^2} = {20.25+6.25+2.25+2.25+12.25+12.25+20.25+0.25+6.25+0.25} = {82.25}')
-
-
-    st.markdown("")
-
-
-    st.markdown("Étape 4 : **Calculons la variance (σ²)**")
-    
-    # Display
-    st.latex(r'Variance (\sigma^2) = \frac{\sum_{i=1}^{n}(X_i - \mu)^2}{N} = \frac{82.25​}{10} = 8.225')
-    
-# Explanation
-    with st.expander("🔮Interpretation de la variance"):
-        st.write("""
-    En statistiques, il n'existe pas de valeurs seuil fixes et universellement applicables pour déterminer ce qui constitue une variance faible ou élevée, car cela dépend du contexte des données et des objectifs spécifiques. 
-    
-    **Cependant, il existe quelques lignes directrices et approches générales que nous pouvons utiliser pour prendre cette décision :** 
-    
-    1. Comparez la valeur de la variance aux variances d'ensembles de données RH similaires des années antérieures, ou au sein d'organisation ou de services similaires.
-    
-    2. Utiliser des tests statistiques pour déterminer si la variance est statistiquement significative. Par exemple, on peut effectuer un test d'hypothèse pour comparer la variance de notre ensemble de données à une valeur hypothétique ou à la variance d'un autre ensemble de données.
-    
-    3. Visualisez les données à l'aide d'un histogramme, d'un box plot ou d'autres méthodes graphiques : un ensemble de données avec une variance élevée affichera généralement une plus grande répartition des points de données, tandis qu'un ensemble de données à faible variance aura des points de données regroupés plus près les uns des autres.
-""")
-    
-
-    st.markdown("")
-    
-
-    st.markdown("")
-
-    
-    st.markdown("- **Écart type** : L'écart type est une mesure de la dispersion des valeurs des données par rapport à la moyenne de l'ensemble de données. **C'est la racine carrée de la variance**. Il s'agit de la mesure de variabilité la plus couramment utilisée et fournit une mesure de la dispersion dans les mêmes unités que l'ensemble de données d'origine.")
-
-    st.markdown("**Mathématiquement, on peut l'exprimer comme suit :**")
-
-    st.subheader("Écart type (σ) = √Variance")
-
-
-    st.markdown("")
-
-
-    st.markdown("**🏀Application 7**")
-    st.markdown("Supposons qu'une entreprise souhaite analyser les scores d'évaluation de performance de ses employés.")
-    
-
-    import streamlit as st
-    import pandas as pd
-    import plotly.express as px
-
-# Create a high variance dataset
-    data = {
-    'Equipe A': [80, 85, 90, 95, 100],
-    'Equipe B': [60, 70, 90, 110, 120]
-    }
-
-    df = pd.DataFrame(data)
-
-    # Display the dataset
-    st.markdown("Les scores de performance de deux équipes, l’équipe A et l’équipe B, sont les suivants :")
-    st.write(df)
-    
-
-    st.markdown("")
-    
-
-    st.write("""Tout d’abord, nous calculons la **plage** pour les deux équipes : 
-    
-    Équipe A : Plage = 100 - 80 = 20
-
-    Équipe B : Plage = 120 - 60 = 60
-    
-    💡La plage indique qu’il existe une plus grande répartition des scores 
-    d'évaluation de performance pour l’équipe B par rapport à l’équipe A.
-""")
-
-    
-    st.markdown("")
-
-
-    st.markdown("")
-    
-
-    st.write("""Calculons la **moyenne** pour les deux équipes : 
-    
-    Équipe A : Moyenne = (80 + 85 + 90 + 95 + 100) / 5 = 450 / 5 = 90
-
-    Équipe B : Moyenne = (60 + 70 + 90 + 110 + 120) / 5 = 450 / 5 = 90
-    
-""")
-
-    
-    st.markdown("")
-    
-
-    st.write("""Puis, nous calculons la **variance** pour les deux équipes : 
-    
-    Équipe A :
-
-    Variance = [(80 - 90)² + (85 - 90)² + (90 - 90)² + (95 - 90)² + (100 - 90)²] / 5
-    Variance = [100 + 25 + 0 + 25 + 100] / 5
-    Variance = 250 / 5
-    Variance = 50
-
-    Équipe B :
-
-    Variance = [(60 - 90)² + (70 - 90)² + (90 - 90)² + (110 - 90)² + (120 - 90)²] / 5
-    Variance = [900 + 400 + 0 + 400 + 900] / 5
-    Variance = 2600 / 5
-    Variance = 520
-    
-""")
-
-
-    st.markdown("")
-    
-
-    st.write("""Enfin, nous calculons **l’écart type** pour les deux équipes : 
-    
-    Équipe A : Écart type ≈ √50 ≈ 7,07
-
-    Équipe B : Écart type ≈ √520 ≈ 22.80
-    
-""")
-
-
-    st.markdown("")
-
-
-# Explanation
-    with st.expander("🔮Interpretation des résultats"):
-        st.write("""
-   La variance et l'écart type montrent que les scores d'évaluation de performance de l'équipe B sont plus dispersés que ceux de l'équipe A.
-
-   Ces informations peuvent aider à identifier des problèmes potentiels au sein de l'équipe B et à mettre en œuvre des actions correctives ciblées pour améliorer les performances de certains employés.
-   """)
-
-
-    st.markdown("")
-
-
-if st.button("Continuer vers la suite du Chap.2 - **C/ Techniques graphiques**"):
-    
-    st.subheader("📈Chap.2-C/ Techniques graphiques📉")
+    st.subheader("📈Chap.2-C/ Analyse des écarts de compétences📉")
     
     st.markdown("Les techniques graphiques sont un moyen puissant de visualiser les données et de les rendre plus faciles à comprendre.") 
     st.markdown("Elles peuvent être utilisées pour communiquer aux parties prenantes des informations complexes de manière claire et concise ; et pour identifier des modèles et des tendances qui peuvent ne pas ressortir des données brutes.")
