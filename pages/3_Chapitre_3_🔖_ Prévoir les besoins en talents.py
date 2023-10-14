@@ -5,22 +5,21 @@ import streamlit as st
 
 st.sidebar.success("Cliquez sur un :blue[chapitre] ou un :blue[quiz]")
 
-st.markdown("# Chapitre 2")
-st.sidebar.markdown("# Chapitre 2")
+st.markdown("# Chapitre 3")
 
-st.title("Analyse de la main-d'œuvre et collecte de données")
+st.sidebar.markdown("# Chapitre 3")
 
-st.markdown("Une planification efficace des effectifs stratégiques de la main-d'œuvre commence par une **analyse complète des effectifs actuels** de votre organisation. Cette analyse implique la collecte et l'évaluation de données pour mieux comprendre les compétences, les performances et le potentiel de vos employés.") 
+st.title("Prévoir les besoins en talents")
 
-st.markdown("Il s'agit d'une **étape critique pour comprendre les forces, les faiblesses et les domaines de votre organisation qui doivent être améliorés**.") 
+st.markdown("Prédire les futurs besoins en talents est un aspect crucial de la planification stratégique des effectifs. Cela implique d’anticiper les aptitudes, les rôles et les compétences dont une organisation aura besoin pour atteindre ses objectifs stratégiques.") 
 
-st.markdown("Ce chapitre décrit les principaux éléments de l'analyse des effectifs et de la collecte de données.") 
+st.markdown("Ce chapitre explore diverses méthodes et stratégies pour prévoir les besoins en talents.") 
 
 st.markdown("")
 
-if st.button("Cliquez pour acceder au Chap.2 - **A/ Collecte et analyse des données de la main-d'œuvre**"):
+if st.button("Cliquez pour acceder au Chap.2 - **A/ Méthodes de prévision des besoins futurs en main-d’œuvre**"):
     
-    st.subheader("📈Chap.2-A/ Collecte et analyse des données📉")
+    st.subheader("📈Chap.2-A/ Méthodes de prévision des besoins futurs en main-d’œuvre📉")
     
     st.markdown("**Les données constituent le fondement de l'analyse des effectifs**. Les RH doivent collecter et analyser divers types de données pour avoir une **vue d'ensemble de la main-d'œuvre**.") 
     
