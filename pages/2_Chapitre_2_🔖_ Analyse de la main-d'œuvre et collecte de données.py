@@ -44,7 +44,9 @@ if st.button("Cliquez pour acceder au Chap.2 - **A/ Collecte et analyse des donn
     
     st.markdown("Des outils analytiques, des logiciels et des méthodes statistiques peuvent être utilisés pour donner un sens aux données et tirer des conclusions significatives.")
 
-    st.link_button("Cours de Statistiques appliquées aux RH", "https://cours-stats-rh.streamlit.app/")
+    st.markdown("Pour en apprendre plus en analyse de données RH, vous pouvez visiter notre :blue[**cours de Statistiques appliquées aux Ressources Humaines**] 
+
+        st.link_button("Cours de Statistiques appliquées aux RH", "https://cours-stats-rh.streamlit.app/")
 
 
         
