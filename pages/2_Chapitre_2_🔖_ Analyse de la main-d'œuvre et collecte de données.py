@@ -137,7 +137,9 @@ if st.button("Continuer vers la suite du Chap.2 - **C/ Réaliser une analyse des
         """,
         unsafe_allow_html=True
         )
-    redirect_button("https://cours-stats-rh.streamlit.app/Heatmap_en_bonus", "Suite : Heatmap")
+    redirect_button("https://gpec-gepp.streamlit.app/Quiz_2_-_Analyse_de_la_main-d'œuvre_et_collecte_de_données📉")
+
+    
     
 
 
