@@ -8,14 +8,19 @@ st.sidebar.success("Cliquez sur un :blue[chapitre] ou un :blue[quiz]")
 st.markdown("# Chapitre 2")
 st.sidebar.markdown("# Chapitre 2")
 
-st.title("Statistiques descriptives")
+st.title("Analyse de la main-d'œuvre et collecte de données")
 
-st.markdown("Comme nous l'avons précédemment vu, **les statistiques descriptives traitent de la collecte, de l'analyse et de la présentation des données**.") 
-st.markdown("Elles vont fournir aux professionnels RH des outils pour décrire et résumer les données d'une manière facile à comprendre.")
+st.markdown("Une planification efficace des effectifs stratégiques de la main-d'œuvre commence par une **analyse complète des effectifs actuels** de votre organisation. Cette analyse implique la collecte et l'évaluation de données pour mieux comprendre les compétences, les performances et le potentiel de vos employés.") 
 
-if st.button("Cliquez pour acceder au Chap.2 - **A/ Mesures de tendance centrale**"):
+st.markdown("Il s'agit d'une **étape critique pour comprendre les forces, les faiblesses et les domaines de votre organisation qui doivent être améliorés**.") 
+
+st.markdown("Ce chapitre décrit les principaux éléments de l'analyse des effectifs et de la collecte de données.") 
+
+st.markdown("")
+
+if st.button("Cliquez pour acceder au Chap.2 - **A/ Collecte et analyse des données de la main-d'œuvre**"):
     
-    st.subheader("📈Chap.2-A/ Mesures de tendance centrale📉")
+    st.subheader("📈Chap.2-A/ Collecte et analyse des données📉")
     
     st.markdown("Les **mesures de tendance centrale** sont utilisées pour définir le centre d'une distribution ou d'un ensemble de données.") 
     st.markdown("En statistique, une **distribution** fait référence au modèle de variation dans un ensemble de données numériques.") 
