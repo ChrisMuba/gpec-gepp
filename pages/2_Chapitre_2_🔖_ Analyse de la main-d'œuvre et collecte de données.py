@@ -64,9 +64,9 @@ with st.sidebar:
 with st.sidebar:
         st.image('GIF/take_notes.gif')
 
-if st.button("Continuer vers la suite du Chap.2 - **B/ Mesures de la variabilité**"):
+if st.button("Continuer vers la suite du Chap.2 - **B/ Détermination des principaux indicateurs de performance**"):
     
-    st.subheader("📈Chap.2-B/ Mesures de la variabilité📉")
+    st.subheader("📈Chap.2-B/ Détermination des principaux indicateurs de performance📉")
     
     st.markdown("Les mesures de variabilité sont utilisées pour décrire la dispersion (propagation) des points de données dans un ensemble de données.") 
     st.markdown("**Il existe plusieurs mesures principales de la variabilité** :")
