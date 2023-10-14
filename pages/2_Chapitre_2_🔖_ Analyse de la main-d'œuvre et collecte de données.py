@@ -50,9 +50,11 @@ if st.button("Cliquez pour acceder au Chap.2 - **A/ Collecte et analyse des donn
                 
     st.link_button("Cours de Statistiques appliquées aux RH", "https://cours-stats-rh.streamlit.app/")
 
-    st.markdown(":bleue[**Ou continuer vers la suite du chapitre 2**]")
+    st.markdown("")
 
-    st.markdown("⬇️")
+    st.markdown(":blue[**Ou continuer vers la suite du chapitre 2**]")
+
+    st.markdown("en cliquant ici ⬇️")
 
 
         
