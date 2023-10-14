@@ -67,9 +67,9 @@ if st.button("Continuer vers la suite du Chap.2 - **B/ Planification de scénari
     st.markdown("")
 
 
-if st.button("Continuer vers la suite du Chap.2 - **C/ Réaliser une analyse des écarts de compétences**"):
+if st.button("Continuer vers la suite du Chap.2 - **C/ Identifier les rôles et compétences critiques**"):
     
-    st.subheader("📈Chap.2-C/ Analyse des écarts de compétences📉")
+    st.subheader("📈Chap.2-C/ Identifier les rôles et compétences critiques📉")
     
     st.markdown("Une analyse des écarts de compétences est un processus systématique d'évaluation des aptitudes, des connaissances et des compétences de votre main-d'œuvre par rapport aux compétences requises pour atteindre vos objectifs stratégiques.") 
     
