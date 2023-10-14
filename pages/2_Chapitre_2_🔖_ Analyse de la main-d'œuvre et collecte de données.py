@@ -76,7 +76,7 @@ if st.button("Continuer vers la suite du Chap.2 - **B/ Détermination des princi
 
     st.markdown("- **Satisfaction et engagement des travailleurs** : évaluer le degré de satisfaction et d'engagement des employés au sein de l'organisation.")
 
-    st.markdown("- ** Taux de turnover** : suivi du pourcentage d'employés qui quittent l'organisation volontairement ou involontairement.")
+    st.markdown("- **Taux de turnover** : suivi du pourcentage d'employés qui quittent l'organisation volontairement ou involontairement.")
 
     st.markdown("- **Délai de pourvoi** : Mmesurer le temps nécessaire pour pourvoir les postes vacants au sein de l'organisation.")
 
