@@ -95,18 +95,29 @@ if st.button("Continuer vers la suite du Chap.2 - **C/ Réaliser une analyse des
     
     st.subheader("📈Chap.2-C/ Analyse des écarts de compétences📉")
     
-    st.markdown("Les techniques graphiques sont un moyen puissant de visualiser les données et de les rendre plus faciles à comprendre.") 
-    st.markdown("Elles peuvent être utilisées pour communiquer aux parties prenantes des informations complexes de manière claire et concise ; et pour identifier des modèles et des tendances qui peuvent ne pas ressortir des données brutes.")
-    st.markdown("Les techniques graphiques à utiliser vont dépendre du type de données : **qualitative** ou **quantitative**.") 
+    st.markdown("Une analyse des écarts de compétences est un processus systématique d'évaluation des aptitudes, des connaissances et des compétences de votre main-d'œuvre par rapport aux compétences requises pour atteindre vos objectifs stratégiques.") 
+    
+    st.markdown("Cette analyse vous aide à identifier les pénuries de compétences et guide vos efforts pour y remédier. Les étapes impliquées dans la réalisation d’une analyse des déficits de compétences comprennent :")
+    
+    st.markdown("- **Définir les compétences requises** : écrivez clairement les aptitudes et les compétences requises pour atteindre vos objectifs stratégiques.")
 
+    st.markdown("- **Évaluez les compétences actuelles** : évaluez les compétences et les capacités existantes de votre main-d'œuvre.")
+
+    st.markdown("- **Identifier les lacunes en matière de compétences** : comparez les compétences requises avec les compétences actuelles, en mettant en évidence les lacunes.")
+
+    st.markdown("- **Élaborer des plans de développement des compétences** : créer des plans de formation et de développement individuels ou en groupe pour combler les lacunes identifiées.")
 
     st.markdown("")
 
+    st.markdown("Une analyse des déficits de compétences garantit que la main-d'œuvre de votre organisation est prête à répondre aux demandes de l'avenir, vous permettant ainsi d'allouer plus efficacement les ressources à la formation, au recrutement et au développement.")
 
-    st.subheader("Données qualitatives")
+    st.markdown("")
 
-     
-    st.markdown("Les types de graphiques courants pour analyser des data RH **qualitatives** incluent :") 
+    st.markdown("En définitive, l’analyse des effectifs et la collecte de données sont en essentielles à une planification stratégique des effectifs réussie. En collectant et en analysant des données, en identifiant des KPI et en effectuant des analyses des lacunes en matière de compétences, il sera possible de prendre des décisions éclairées et garantir que la main-d'œuvre de l'organisation s'aligne sur ses buts et objectifs stratégiques.")
+
+
+
+    
     
 
     st.markdown("")
