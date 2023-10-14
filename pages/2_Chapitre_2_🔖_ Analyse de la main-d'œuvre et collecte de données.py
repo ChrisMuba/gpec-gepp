@@ -46,7 +46,13 @@ if st.button("Cliquez pour acceder au Chap.2 - **A/ Collecte et analyse des donn
 
     st.markdown("Pour en apprendre plus en analyse de données RH, vous pouvez visiter notre :blue[**cours de Statistiques appliquées aux Ressources Humaines**]") 
 
-        st.link_button("Cours de Statistiques appliquées aux RH", "https://cours-stats-rh.streamlit.app/")
+    st.markdown("⬇️")
+                
+    st.link_button("Cours de Statistiques appliquées aux RH", "https://cours-stats-rh.streamlit.app/")
+
+    st.markdown(":bleu[Ou continuer vers la suite]")
+
+    st.markdown("⬇️")
 
 
         
