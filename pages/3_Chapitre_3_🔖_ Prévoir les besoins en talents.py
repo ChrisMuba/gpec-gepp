@@ -69,27 +69,27 @@ if st.button("Continuer vers la suite du Chap.2 - **B/ Planification de scénari
 
 if st.button("Continuer vers la suite du Chap.2 - **C/ Identifier les rôles et compétences critiques**"):
     
-    st.subheader("📈Chap.2-C/ Identifier les rôles et compétences critiques📉")
+    st.subheader("📈Chap.2-C/ Identifier rôles et compétences critiques📉")
     
-    st.markdown("Une analyse des écarts de compétences est un processus systématique d'évaluation des aptitudes, des connaissances et des compétences de votre main-d'œuvre par rapport aux compétences requises pour atteindre vos objectifs stratégiques.") 
+    st.markdown("Tous les rôles ne sont pas égaux en termes d’importance stratégique. L’identification des rôles et des compétences critiques est essentielle pour une planification stratégique efficace.") 
     
-    st.markdown("Cette analyse vous aide à identifier les pénuries de compétences et guide vos efforts pour y remédier. Les étapes impliquées dans la réalisation d’une analyse des déficits de compétences comprennent :")
+    st.markdown("Voici comment procéder :") 
     
-    st.markdown("- **Définir les compétences requises** : écrivez clairement les aptitudes et les compétences requises pour atteindre vos objectifs stratégiques.")
+    st.markdown("- **Objectifs stratégiques** : commencez par comprendre les objectifs stratégiques de votre organisation. Quels rôles et compétences sont les plus cruciaux pour atteindre ces objectifs ?")
 
-    st.markdown("- **Évaluez les compétences actuelles** : évaluez les compétences et les capacités existantes de votre main-d'œuvre.")
+    st.markdown("- **Cartographie des compétences** : créez un cadre de compétences qui décrit les compétences et les connaissances requises pour chaque rôle. Identifiez les compétences essentielles à votre mission.")
 
-    st.markdown("- **Identifier les lacunes en matière de compétences** : comparez les compétences requises avec les compétences actuelles, en mettant en évidence les lacunes.")
+    st.markdown("- **Analyse d'impact** : évaluez l'impact du fait de ne pas avoir les bonnes personnes dans ces rôles critiques. Cela pourrait inclure des implications financières, opérationnelles ou stratégiques.")
 
-    st.markdown("- **Élaborer des plans de développement des compétences** : créer des plans de formation et de développement individuels ou en groupe pour combler les lacunes identifiées.")
+    st.markdown("- **Planification de la relève** : élaborer des stratégies pour garantir un vivier de talents pour ces rôles. Cela peut impliquer la préparation de candidats internes, un recrutement stratégique ou des partenariats avec des établissements d'enseignement.")
 
     st.markdown("")
 
-    st.markdown("Une analyse des déficits de compétences garantit que la main-d'œuvre de votre organisation est prête à répondre aux demandes de l'avenir, vous permettant ainsi d'allouer plus efficacement les ressources à la formation, au recrutement et au développement.")
+    st.markdown("L'identification des rôles et des compétences critiques garantit que vos efforts de planification stratégique des effectifs sont concentrés sur les domaines qui ont l'influence la plus significative sur le succès de votre organisation.")
 
     st.markdown("")
 
-    st.markdown("En définitive, l’analyse des effectifs et la collecte de données sont en essentielles à une planification stratégique des effectifs réussie. En collectant et en analysant des données, en identifiant des KPI et en effectuant des analyses des lacunes en matière de compétences, il sera possible de prendre des décisions éclairées et garantir que la main-d'œuvre de l'organisation s'aligne sur ses buts et objectifs stratégiques.")
+    st.markdown("En conclusion, la prévision des besoins en talents est un élément clé de la planification stratégique des effectifs. En utilisant des méthodes basées sur les données, la planification de scénarios et la modélisation de la main-d'œuvre, et en identifiant les rôles et compétences critiques, les RH peuvent garantir que leur organisation est prête à répondre aux futures demandes de main-d'œuvre et aux objectifs stratégiques.")
 
     
 
@@ -113,7 +113,7 @@ if st.button("Continuer vers la suite du Chap.2 - **C/ Identifier les rôles et 
         """,
         unsafe_allow_html=True
         )
-    redirect_button("https://gpec-gepp.streamlit.app/Quiz_2_-_Analyse_de_la_main-d'œuvre_et_collecte_de_données📉","Quiz du chapitre 2")
+    redirect_button("https://gpec-gepp.streamlit.app/Quiz_3_-_Pr%C3%A9voir_les_besoins_en_talents📉","Quiz du chapitre 3")
 
     
     
