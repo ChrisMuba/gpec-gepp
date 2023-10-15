@@ -16,9 +16,9 @@ st.markdown("Un suivi et une évaluation efficaces sont des éléments essentiel
 
 st.markdown("")
 
-if st.button("Cliquez pour acceder au Chap.7 - **A/ Indicateurs et mesures de performance clés**"):
+if st.button("Cliquez pour acceder au Chap.7 - **A/ Indicateurs et mesures de performance**"):
     
-    st.subheader("📗Chap.7-A/ Indicateurs et mesures de performance clés📘")
+    st.subheader("📗Chap.7-A/ Indicateurs et mesures de performance📘")
     
     st.markdown("") 
     
