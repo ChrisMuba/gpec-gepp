@@ -5,32 +5,33 @@ import streamlit as st
 
 st.sidebar.success("Cliquez sur un :blue[chapitre] ou un :blue[quiz]")
 
-st.markdown("# Chapitre 3")
+st.markdown("# Chapitre 5")
 
-st.sidebar.markdown("# Chapitre 3")
+st.sidebar.markdown("# Chapitre 5")
 
-st.title("Prévoir les besoins en talents")
+st.title("Élaborer le plan stratégique de main-d’œuvre")
 
-st.markdown("Prédire les futurs besoins en talents est un aspect crucial de la planification stratégique des effectifs. Cela implique d’anticiper les aptitudes, les rôles et les compétences dont une organisation aura besoin pour atteindre ses objectifs stratégiques.") 
-
-st.markdown("Ce chapitre explore diverses méthodes et stratégies pour prévoir les besoins en talents.") 
+st.markdown("L'élaboration d'un plan stratégique est une phase cruciale dans le processus d'alignement de la main-d'œuvre de votre organisation sur ses buts et objectifs stratégiques. À cette étape, vous traduisez les intentions stratégiques en stratégies RH exploitables qui garantiront que votre personnel est adéquatement équipé et préparé pour atteindre ces objectifs.") 
 
 st.markdown("")
 
-if st.button("Cliquez pour acceder au Chap.2 - **A/ Méthodes de prévision des besoins futurs en main-d’œuvre**"):
+if st.button("Cliquez pour acceder au Chap.5 - **A/ Définir les objectifs et les buts stratégiques**"):
     
-    st.subheader("📈Chap.2-A/ Prévision des besoins futurs en main-d’œuvre📉")
+    st.subheader("📗Chap.5-A/ Définir les objectifs et les buts stratégiques📘")
     
     
-    st.markdown("Les méthodes de prévision peuvent inclure:") 
+    st.markdown("La planification stratégique commence par une compréhension claire des objectifs et buts stratégiques de votre organisation. Ce sont les piliers fondamentaux sur lesquels sera construit le plan de main-d’œuvre.")
     
-    st.markdown("- **Analyse des données historiques** : l'examen des données historiques sur la main-d'œuvre, telles que les taux de rotation, les promotions et les tendances de recrutement, peut fournir un aperçu des futurs besoins en talents. Cette méthode est utile pour identifier des modèles récurrents.") 
+    st.markdown("Les étapes de définition des objectifs et buts stratégiques comprennent :") 
     
-    st.markdown("- **Analyse des tendances** : l'examen des tendances du secteur et des forces du marché peut aider à prédire les besoins futurs en main-d'œuvre. Par exemple, si une nouvelle technologie est sur le point de perturber votre secteur, vous devrez peut-être prévoir les besoins en talents pour les compétences connexes.")
+    
+    st.markdown("- **Alignement stratégique** : veiller à ce que les objectifs de la planification stratégique s'alignent étroitement sur les objectifs stratégiques globaux de l'organisation.") 
+    
+    st.markdown("- **Clarté des objectifs** : définissez clairement ce que votre organisation vise à réaliser à court et à long terme.")
 
-    st.markdown("- **Projections de croissance** : il est essentiel d’aligner les besoins en talents avec les projections de croissance de l’entreprise. Si votre organisation envisage de se développer sur de nouveaux marchés ou de lancer de nouveaux produits, vous devrez probablement embaucher des talents supplémentaires.")
+    st.markdown("- **Indicateurs clés de performance (KPI)** : spécifiez les KPI qui seront utilisés pour mesurer les progrès et succès dans la réalisation des objectifs stratégiques.")
 
-    st.markdown("- **Planification de la succession** : identifier et développer les talents internes pour des rôles clés est un moyen proactif de prévoir les besoins en talents. En évaluant l’état de préparation de vos employés à accéder à des postes à responsabilités, vous pouvez réduire le recours au recrutement externe.")
+    st.markdown("- **Allocation des ressources** : Déterminer les ressources nécessaires, tant en termes de budget que de capital humain, pour soutenir ces objectifs.")
 
     st.markdown("")
     
@@ -42,9 +43,9 @@ with st.sidebar:
 with st.sidebar:
         st.image('GIF/take_notes.gif')
 
-if st.button("Continuer vers la suite du Chap.2 - **B/ Planification de scénarios et modélisation de la main-d'œuvre**"):
+if st.button("Continuer vers la suite du Chap.5 - **B/ Planification de scénarios et modélisation de la main-d'œuvre**"):
     
-    st.subheader("📈Chap.2-B/ Planification de scénarios et modélisation📉")
+    st.subheader("📈Chap.5-B/ Planification de scénarios et modélisation📉")
     
     st.markdown("La planification de scénarios implique la création de différents scénarios futurs et l’évaluation de leur impact sur les besoins de main-d’œuvre. Cette méthode peut être utilisée pour se préparer à diverses situations potentielles.") 
     
@@ -67,9 +68,9 @@ if st.button("Continuer vers la suite du Chap.2 - **B/ Planification de scénari
     st.markdown("")
 
 
-if st.button("Continuer vers la suite du Chap.2 - **C/ Identifier les rôles et compétences critiques**"):
+if st.button("Continuer vers la suite du Chap.5 - **C/ Identifier les rôles et compétences critiques**"):
     
-    st.subheader("📈Chap.2-C/ Identifier rôles et compétences critiques📉")
+    st.subheader("📈Chap.5-C/ Identifier rôles et compétences critiques📉")
     
     st.markdown("Tous les rôles ne sont pas égaux en termes d’importance stratégique. L’identification des rôles et des compétences critiques est essentielle pour une planification stratégique efficace.") 
     
