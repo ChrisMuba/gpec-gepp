@@ -15,9 +15,9 @@ with st.sidebar:
 with st.sidebar:
         st.image('GIF/copiste.gif')
 
-st.title("Introduction aux statistiques")
+st.title("Introduction à la planification stratégique des effectifs")
 
-st.markdown("Ces questions visent à évaluer la compréhension des concepts clés et des sujets abordés dans le cours d'introduction aux statistiques.")
+st.markdown("Ces questions visent à évaluer la compréhension des concepts clés et des sujets abordés dans le cours d'introduction à la GPEC, GEPP et à la planification stratégique.")
 
 st.markdown("Cocher les bonnes réponses.")
 
