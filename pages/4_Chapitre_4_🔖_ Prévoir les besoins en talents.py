@@ -9,7 +9,7 @@ st.markdown("# Chapitre 4")
 
 st.sidebar.markdown("# Chapitre 4")
 
-st.title("Segmentation de la main-d’œuvre et analyse de l’offre de main-d’œuvre")
+st.title("Segmentation et analyse de l’offre de main-d’œuvre")
 
 st.markdown("Pour garantir que la main-d'œuvre de votre organisation s'aligne sur ses objectifs stratégiques, il est essentiel de segmenter la main-d'œuvre en fonction des rôles et des compétences critiques requis pour réussir.") 
 
@@ -29,15 +29,20 @@ if st.button("Cliquez pour acceder au Chap.2 - **A/ Catégoriser la main-d'œuvr
 
     
     
-    st.markdown("- **Analyse des données historiques** : l'examen des données historiques sur la main-d'œuvre, telles que les taux de rotation, les promotions et les tendances de recrutement, peut fournir un aperçu des futurs besoins en talents. Cette méthode est utile pour identifier des modèles récurrents.") 
+    st.markdown("- **Définition des catégories** : déterminez les catégories ou les segments au sein de votre organisation en fonction de l'importance des rôles et des compétences. Par exemple, identifiez les rôles critiques, clés et de support.") 
     
-    st.markdown("- **Analyse des tendances** : l'examen des tendances du secteur et des forces du marché peut aider à prédire les besoins futurs en main-d'œuvre. Par exemple, si une nouvelle technologie est sur le point de perturber votre secteur, vous devrez peut-être prévoir les besoins en talents pour les compétences connexes.")
+    st.markdown("- **Analyse des rôles** : évaluer l'impact stratégique de chaque rôle sur les objectifs de l'organisation. Les rôles critiques sont ceux qui influencent de manière significative la réalisation des objectifs stratégiques.")
 
-    st.markdown("- **Projections de croissance** : il est essentiel d’aligner les besoins en talents avec les projections de croissance de l’entreprise. Si votre organisation envisage de se développer sur de nouveaux marchés ou de lancer de nouveaux produits, vous devrez probablement embaucher des talents supplémentaires.")
+    st.markdown("- **Aptitudes et compétences** : identifiez les compétences clés requises pour chaque catégorie, car différents rôles peuvent nécessiter des ensembles de compétences distincts.")
 
-    st.markdown("- **Planification de la succession** : identifier et développer les talents internes pour des rôles clés est un moyen proactif de prévoir les besoins en talents. En évaluant l’état de préparation de vos employés à accéder à des postes à responsabilités, vous pouvez réduire le recours au recrutement externe.")
+    st.markdown("- **Allocation des ressources** : allouez des ressources, telles que la formation, le recrutement ou le développement des talents, en fonction de l'importance stratégique de chaque catégorie.")
 
     st.markdown("")
+
+    st.markdown("La catégorisation de la main-d'œuvre garantit que l'orientation stratégique et les ressources sont orientées vers les rôles qui ont l'impact le plus significatif sur le succès de votre organisation.")
+
+    st.markdown("")
+
     
 
         
