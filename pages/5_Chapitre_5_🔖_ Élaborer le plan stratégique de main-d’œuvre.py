@@ -119,7 +119,7 @@ if st.button("Continuer vers la suite du Chap.5 - **C/ Stratégie d’acquisitio
         """,
         unsafe_allow_html=True
         )
-    redirect_button("https://gpec-gepp.streamlit.app/Quiz_5_-_Élaborer_le_plan_stratégique_de_main-d’œuvre📉","Quiz du chapitre 5")
+    redirect_button("https://gpec-gepp.streamlit.app/Quiz_5_-_Élaborer_le_plan_stratégique_de_main-d’œuvre","Quiz du chapitre 5")
 
     
     
