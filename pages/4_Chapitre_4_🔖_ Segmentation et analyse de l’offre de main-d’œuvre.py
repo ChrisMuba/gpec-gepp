@@ -19,7 +19,7 @@ st.markdown("")
 
 if st.button("Cliquez pour acceder au Chap.2 - **A/ Catégoriser la main-d'œuvre en fonction des rôles critiques**"):
     
-    st.subheader("📗Chap.2-A/ Catégoriser en fonction des rôles critiques📘")
+    st.subheader("📗Chap.4-A/ Catégoriser en fonction des rôles critiques📘")
     
 
     st.markdown("La segmentation de la main-d'œuvre implique de classer les employés en différentes catégories en fonction de leurs rôles, compétences et contributions à l'organisation. Lorsqu’il s’agit de planification stratégique des effectifs, la catégorisation est essentielle pour concentrer les ressources et les efforts là où elles sont le plus nécessaires.")
@@ -49,7 +49,7 @@ with st.sidebar:
 
 if st.button("Continuer vers la suite du Chap.2 - **B/ Analyse de l'offre de main-d'œuvre (interne ou externe)**"):
     
-    st.subheader("📗Chap.2-B/ Analyse de l'offre interne ou externe📘")
+    st.subheader("📗Chap.4-B/ Analyse de l'offre interne ou externe📘")
     
     st.markdown("Comprendre votre offre de main-d'œuvre implique d'évaluer votre capacité à répondre aux besoins en talents, tant au sein de l'organisation que par le biais du recrutement externe. Cette analyse est essentielle pour prendre des décisions éclairées en matière de recrutement, de développement et de planification de la succession.") 
     
@@ -76,7 +76,7 @@ if st.button("Continuer vers la suite du Chap.2 - **B/ Analyse de l'offre de mai
 
 if st.button("Continuer vers la suite du Chap.2 - **C/ Planification de la relève et pipelines de talents**"):
     
-    st.subheader("📗Chap.2-C/ Planification de la relève et pipelines de talents📘")
+    st.subheader("📗Chap.4-C/ Planification et pipelines de talents📘")
     
     st.markdown("Tous les rôles ne sont pas égaux en termes d’importance stratégique. L’identification des rôles et des compétences critiques est essentielle pour une planification stratégique efficace.") 
     
