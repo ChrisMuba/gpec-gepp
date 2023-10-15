@@ -127,7 +127,7 @@ if st.button("Continuer vers la suite du Chap.4 - **C/ Planification de la relè
         """,
         unsafe_allow_html=True
         )
-    redirect_button("https://gpec-gepp.streamlit.app/Quiz_3_-_Pr%C3%A9voir_les_besoins_en_talents📉","Quiz du chapitre 3")
+    redirect_button("https://gpec-gepp.streamlit.app/Quiz_4_-_Segmentation_et_analyse_de_l'offre_de_main-d’œuvre📉","Quiz du chapitre 4")
 
     
     
