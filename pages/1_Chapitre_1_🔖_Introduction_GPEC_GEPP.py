@@ -132,7 +132,7 @@ if st.button("Continuer vers Chap.1 - **D/ Lier la planification de la main-d'œ
         """,
         unsafe_allow_html=True
         )
-    redirect_button("https://gpec-gepp.streamlit.app/Quiz_1_-_Introduction_GPEC_GEPP📉","Quiz du chapitre 1")
+    redirect_button("https://gpec-gepp.streamlit.app/Quiz_1_-_Introduction_GPEC_GEPP","Quiz du chapitre 1")
 
 
                 
