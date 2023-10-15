@@ -44,7 +44,7 @@ with st.sidebar:
 
 if st.button("Continuer vers la suite du Chap.7 - **B/ Examens et ajustements périodiques des effectifs**"):
     
-    st.subheader("📗Chap.7-B/ Examens et ajustements périodiques des effectifs📘")
+    st.subheader("📗Chap.7-B/ Examens et ajustements des effectifs📘")
     
     
     st.markdown("- **Examens programmés** : effectuer des examens périodiques des progrès de la planification stratégique. Ces examens peuvent être mensuels, trimestriels ou déterminés par les besoins spécifiques de votre organisation.")
