@@ -40,8 +40,6 @@ if st.button("Cliquez pour acceder au Chap.2 - **A/ Catégoriser la main-d'œuvr
 
     st.markdown("")
 
-    
-
         
 # Add the "made with ❤️ by ..." text in the sidebar
 with st.sidebar:
@@ -49,9 +47,9 @@ with st.sidebar:
 with st.sidebar:
         st.image('GIF/take_notes.gif')
 
-if st.button("Continuer vers la suite du Chap.2 - **B/ Planification de scénarios et modélisation de la main-d'œuvre**"):
+if st.button("Continuer vers la suite du Chap.2 - **B/ Analyse de l'offre de main-d'œuvre (interne ou externe)**"):
     
-    st.subheader("📈Chap.2-B/ Planification de scénarios et modélisation📉")
+    st.subheader("📈Chap.2-B/ Analyse de l'offre interne ou externe📉")
     
     st.markdown("La planification de scénarios implique la création de différents scénarios futurs et l’évaluation de leur impact sur les besoins de main-d’œuvre. Cette méthode peut être utilisée pour se préparer à diverses situations potentielles.") 
     
