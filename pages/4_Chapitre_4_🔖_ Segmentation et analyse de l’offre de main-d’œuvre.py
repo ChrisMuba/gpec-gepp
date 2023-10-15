@@ -78,25 +78,32 @@ if st.button("Continuer vers la suite du Chap.4 - **C/ Planification de la relè
     
     st.subheader("📗Chap.4-C/ Planification et pipelines de talents📘")
     
-    st.markdown("Tous les rôles ne sont pas égaux en termes d’importance stratégique. L’identification des rôles et des compétences critiques est essentielle pour une planification stratégique efficace.") 
+    st.markdown("La planification de la relève est le processus d'identification et de développement des talents internes pour remplir des rôles critiques lorsque le besoin s'en fait sentir. Il s’agit d’une approche proactive pour assurer la continuité du leadership et des postes clés.") 
     
-    st.markdown("Voici comment procéder :") 
+    st.markdown("L’établissement de viviers de talents fait partie intégrante de la planification de la relève.") 
     
-    st.markdown("- **Objectifs stratégiques** : commencez par comprendre les objectifs stratégiques de votre organisation. Quels rôles et compétences sont les plus cruciaux pour atteindre ces objectifs ?")
+    st.markdown("Les éléments clés de la planification de la relève et des réserves de talents comprennent :") 
+    
+    
+    st.markdown("- **Identifier les successeurs** : identifiez les successeurs potentiels pour les rôles critiques au sein de l'organisation. Tenez compte de leurs compétences, de leur expérience et de leurs besoins de développement.")
 
-    st.markdown("- **Cartographie des compétences** : créez un cadre de compétences qui décrit les compétences et les connaissances requises pour chaque rôle. Identifiez les compétences essentielles à votre mission.")
+    st.markdown("- **Plans de développement** : créez des plans de développement individualisés pour les successeurs potentiels, en leur fournissant les compétences et les expériences requises pour les rôles futurs.")
 
-    st.markdown("- **Analyse d'impact** : évaluez l'impact du fait de ne pas avoir les bonnes personnes dans ces rôles critiques. Cela pourrait inclure des implications financières, opérationnelles ou stratégiques.")
+    st.markdown("- **Mentorat et coaching** : Fournir des mentors ou des coachs pour soutenir le développement des successeurs.")
 
-    st.markdown("- **Planification de la relève** : élaborer des stratégies pour garantir un vivier de talents pour ces rôles. Cela peut impliquer la préparation de candidats internes, un recrutement stratégique ou des partenariats avec des établissements d'enseignement.")
+    st.markdown("- **Évaluation continue** : évaluer régulièrement l'état de préparation des successeurs potentiels et apporter les ajustements nécessaires à leurs plans de développement.")
+
+    st.markdown("- **Création d'un vivier de talents** : créez un vivier de talents pour garantir un pool constant en personnes compétentes, prêtes à assumer des rôles critiques.")
+                
+    st.markdown("")
+
+    st.markdown("La planification de la relève et les réserves de talents contribuent à la résilience organisationnelle et atténuent le risque de manque de leadership et de compétences.")
 
     st.markdown("")
 
-    st.markdown("L'identification des rôles et des compétences critiques garantit que vos efforts de planification stratégique des effectifs sont concentrés sur les domaines qui ont l'influence la plus significative sur le succès de votre organisation.")
-
-    st.markdown("")
-
-    st.markdown("En conclusion, la prévision des besoins en talents est un élément clé de la planification stratégique des effectifs. En utilisant des méthodes basées sur les données, la planification de scénarios et la modélisation de la main-d'œuvre, et en identifiant les rôles et compétences critiques, les RH peuvent garantir que leur organisation est prête à répondre aux futures demandes de main-d'œuvre et aux objectifs stratégiques.")
+    st.markdown("En conclusion, la segmentation de la main-d'œuvre, l'analyse de l'offre de main-d'œuvre et la mise en œuvre d'une planification de la relève et de viviers de talents font partie intégrante de la planification stratégique de la main-d'œuvre.") 
+    
+    st.markdown("Ces pratiques permettent aux organisations d'allouer efficacement leurs ressources, de combler les déficits de talents et de garantir la disponibilité des bonnes personnes dans des rôles critiques, alignant ainsi la main-d'œuvre sur les objectifs stratégiques.")
 
     
 
