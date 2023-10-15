@@ -13,25 +13,25 @@ st.title("Mise en œuvre et gestion du changement")
 
 st.markdown("La mise en œuvre d'un plan stratégique de main-d'œuvre est une phase critique dans le processus d'alignement de la main-d'œuvre de votre organisation sur ses objectifs stratégiques. La réussite de la mise en œuvre dépend d’une gestion efficace du changement, car elle implique souvent des changements organisationnels importants.") 
 
-st.markdown("Ce chapitre explore diverses méthodes et stratégies pour prévoir les besoins en talents.") 
-
 st.markdown("")
 
-if st.button("Cliquez pour acceder au Chap.6 - **A/ Méthodes de prévision des besoins futurs en main-d’œuvre**"):
+if st.button("Cliquez pour acceder au Chap.6 - **A/ Déployer le plan de main d'œuvre**"):
     
-    st.subheader("📗Chap.6-A/ Prévision des besoins en main-d’œuvre📘")
+    st.subheader("📗Chap.6-A/ Déployer le plan de main d'œuvre📘")
     
     
-    st.markdown("Les méthodes de prévision peuvent inclure:") 
+    st.markdown("- **Plans d'action détaillés** : commencez par traduire le SWP en plans d'action détaillés qui précisent ce qui doit être fait, quand, par qui et avec quelles ressources. Ces plans d’action doivent s’aligner sur les objectifs stratégiques plus larges.") 
     
-    st.markdown("- **Analyse des données historiques** : l'examen des données historiques sur la main-d'œuvre, telles que les taux de rotation, les promotions et les tendances de recrutement, peut fournir un aperçu des futurs besoins en talents. Cette méthode est utile pour identifier des modèles récurrents.") 
-    
-    st.markdown("- **Analyse des tendances** : l'examen des tendances du secteur et des forces du marché peut aider à prédire les besoins futurs en main-d'œuvre. Par exemple, si une nouvelle technologie est sur le point de perturber votre secteur, vous devrez peut-être prévoir les besoins en talents pour les compétences connexes.")
+    st.markdown("- **Attribution des responsabilités** : attribuez clairement les responsabilités aux membres de l'équipe ou aux services pour garantir que chacun comprend son rôle dans l'exécution du plan.")
 
-    st.markdown("- **Projections de croissance** : il est essentiel d’aligner les besoins en talents avec les projections de croissance de l’entreprise. Si votre organisation envisage de se développer sur de nouveaux marchés ou de lancer de nouveaux produits, vous devrez probablement embaucher des talents supplémentaires.")
+    st.markdown("- **Échéanciers et jalons** : Élaborez des échéanciers et des jalons pour chaque plan d'action, en vous assurant qu'ils sont réalistes et réalisables.")
 
     st.markdown("- **Planification de la succession** : identifier et développer les talents internes pour des rôles clés est un moyen proactif de prévoir les besoins en talents. En évaluant l’état de préparation de vos employés à accéder à des postes à responsabilités, vous pouvez réduire le recours au recrutement externe.")
+    
+    st.markdown("- **Indicateurs de performance** : définissez des indicateurs clés de performance (KPI) et des critères de réussite qui vous aideront à mesurer les progrès et l'impact du plan de main-d'œuvre.")
 
+    st.markdown("- **Allocation des ressources** : allouer les ressources nécessaires, y compris le budget, la main-d'œuvre et la technologie, pour soutenir l'exécution du plan.")
+                
     st.markdown("")
     
 
