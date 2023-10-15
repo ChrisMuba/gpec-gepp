@@ -11,7 +11,7 @@ st.sidebar.markdown("# Chapitre 6")
 
 st.title("Mise en œuvre et gestion du changement")
 
-st.markdown("Prédire les futurs besoins en talents est un aspect crucial de la planification stratégique des effectifs. Cela implique d’anticiper les aptitudes, les rôles et les compétences dont une organisation aura besoin pour atteindre ses objectifs stratégiques.") 
+st.markdown("La mise en œuvre d'un plan stratégique de main-d'œuvre est une phase critique dans le processus d'alignement de la main-d'œuvre de votre organisation sur ses objectifs stratégiques. La réussite de la mise en œuvre dépend d’une gestion efficace du changement, car elle implique souvent des changements organisationnels importants.") 
 
 st.markdown("Ce chapitre explore diverses méthodes et stratégies pour prévoir les besoins en talents.") 
 
@@ -19,7 +19,7 @@ st.markdown("")
 
 if st.button("Cliquez pour acceder au Chap.6 - **A/ Méthodes de prévision des besoins futurs en main-d’œuvre**"):
     
-    st.subheader("📗Chap.6-A/ Prévision des besoins futurs en main-d’œuvre📘")
+    st.subheader("📗Chap.6-A/ Prévision des besoins en main-d’œuvre📘")
     
     
     st.markdown("Les méthodes de prévision peuvent inclure:") 
