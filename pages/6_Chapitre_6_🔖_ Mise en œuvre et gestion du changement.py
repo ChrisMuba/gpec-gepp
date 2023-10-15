@@ -20,7 +20,7 @@ if st.button("Cliquez pour acceder au Chap.6 - **A/ Déployer le plan de main d'
     st.subheader("📗Chap.6-A/ Déployer le plan de main d'œuvre📘")
     
     
-    st.markdown("- **Plans d'action détaillés** : commencez par traduire le SWP en plans d'action détaillés qui précisent ce qui doit être fait, quand, par qui et avec quelles ressources. Ces plans d’action doivent s’aligner sur les objectifs stratégiques plus larges.") 
+    st.markdown("- **Plans d'action détaillés** : commencez par traduire la planification stratégique de la main d'œuvre en plans d'action détaillés qui précisent ce qui doit être fait, quand, par qui et avec quelles ressources. Ces plans d’action doivent s’aligner sur les objectifs stratégiques plus larges.") 
     
     st.markdown("- **Attribution des responsabilités** : attribuez clairement les responsabilités aux membres de l'équipe ou aux services pour garantir que chacun comprend son rôle dans l'exécution du plan.")
 
