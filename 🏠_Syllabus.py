@@ -20,7 +20,7 @@ st.caption("Vous souhaitez engager une démarche de *GEPP / GPEC* ? Parlons-en �
 
 # Explanation
 #with st.expander("✨:blue[Pourquoi ce cours ?]✨"):
-    st.write("""
+    #st.write("""
     Êtes-vous un professionnel RH cherchant à exploiter la puissance de l’analyse des données pour une meilleure prise de décision ? 
     
     Vous avez du mal à trouver des ressources pédagogiques adaptées au contexte RH ?
