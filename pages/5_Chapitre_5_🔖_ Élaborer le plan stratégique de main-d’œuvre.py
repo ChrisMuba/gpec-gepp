@@ -45,7 +45,7 @@ with st.sidebar:
 
 if st.button("Continuer vers la suite du Chap.5 - **B/ Créer des plans d'action pour combler déficits de talents**"):
     
-    st.subheader("📗Chap.5-B/ Créer des plans d'action pour combler déficits de talents📘")
+    st.subheader("📗Chap.5-B/ Combler les déficits de talents📘")
     
     
     st.markdown("Une fois les objectifs et buts stratégiques définis, l’étape suivante consiste à créer des plans d’action pour combler les déficits de talents susceptibles d’entraver la réalisation de ces objectifs.")  
