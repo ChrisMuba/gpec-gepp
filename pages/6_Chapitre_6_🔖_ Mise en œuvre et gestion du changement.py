@@ -110,7 +110,7 @@ if st.button("Continuer vers la suite du Chap.6 - **C/ Gérer le changement orga
         """,
         unsafe_allow_html=True
         )
-    redirect_button("https://gpec-gepp.streamlit.app/Quiz_6_-_Mise_en_œuvre_et_gestion_du_changement📉","Quiz du chapitre 6")
+    redirect_button("https://gpec-gepp.streamlit.app/Quiz_6_-_Mise_en_œuvre_et_gestion_du_changement","Quiz du chapitre 6")
 
     
     
