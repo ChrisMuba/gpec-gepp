@@ -79,9 +79,9 @@ if st.button("Continuer vers la suite du Chap.6 - **C/ Gérer le changement orga
 
     st.markdown("- **Boucles de rétroaction** : mettez en œuvre des boucles de rétroaction qui permettent aux employés d'exprimer leurs pensées, leurs préoccupations et leurs suggestions, et de répondre activement à leurs commentaires.")
 
-    st.markdown("- **Suivi et évaluation** : surveiller en permanence la mise en œuvre de la planification stratégique et évaluer son efficacité. Apportez les ajustements nécessaires pour garantir que le plan reste sur la bonne voie.
+    st.markdown("- **Suivi et évaluation** : surveiller en permanence la mise en œuvre de la planification stratégique et évaluer son efficacité. Apportez les ajustements nécessaires pour garantir que le plan reste sur la bonne voie.")
 
-    st.markdown("- **Célébrer le succès** : Reconnaître et célébrer les étapes et les succès obtenus grâce à la planification stratégique. Cela peut motiver les employés et susciter l’enthousiasme pour le plan.
+    st.markdown("- **Célébrer le succès** : Reconnaître et célébrer les étapes et les succès obtenus grâce à la planification stratégique. Cela peut motiver les employés et susciter l’enthousiasme pour le plan.")
 
     st.markdown("")
 
