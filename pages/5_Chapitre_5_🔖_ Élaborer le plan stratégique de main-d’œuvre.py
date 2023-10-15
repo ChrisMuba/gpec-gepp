@@ -43,34 +43,33 @@ with st.sidebar:
 with st.sidebar:
         st.image('GIF/take_notes.gif')
 
-if st.button("Continuer vers la suite du Chap.5 - **B/ Planification de scénarios et modélisation de la main-d'œuvre**"):
+if st.button("Continuer vers la suite du Chap.5 - **B/ Créer des plans d'action pour combler déficits de talents**"):
     
-    st.subheader("📈Chap.5-B/ Planification de scénarios et modélisation📉")
+    st.subheader("📗Chap.5-B/ Créer des plans d'action pour combler déficits de talents📘")
     
-    st.markdown("La planification de scénarios implique la création de différents scénarios futurs et l’évaluation de leur impact sur les besoins de main-d’œuvre. Cette méthode peut être utilisée pour se préparer à diverses situations potentielles.") 
     
-    st.markdown("La modélisation des effectifs complète la planification de scénarios en fournissant une vue détaillée de la manière dont les changements d’effectifs affectent l’organisation.") 
+    st.markdown("Une fois les objectifs et buts stratégiques définis, l’étape suivante consiste à créer des plans d’action pour combler les déficits de talents susceptibles d’entraver la réalisation de ces objectifs.")  
     
-    st.markdown("Les étapes de la planification de scénarios et de la modélisation des effectifs comprennent :") 
+    st.markdown("Cela comprend les étapes suivantes :") 
     
-    st.markdown("- **Création de scénarios** : développez plusieurs scénarios basés sur différentes hypothèses, telles que les conditions économiques, la dynamique du marché ou les progrès technologiques.")
+    st.markdown("- **Analyse des écarts de compétences** : reportez-vous aux résultats de votre analyse des écarts de compétences pour identifier les domaines spécifiques dans lesquels votre main-d'œuvre ne possède pas les aptitudes et compétences requises.")
 
-    st.markdown("- **Impacts sur la main-d'œuvre** : évaluez l'impact de chaque scénario sur les besoins en main-d'œuvre, notamment l'embauche, les licenciements, le perfectionnement des compétences ou autre réorganisation.")
+    st.markdown("- **Développement et formation** : élaborer des plans de formation et de développement pour les employés existants afin de combler ces lacunes en matière de compétences.")
 
-    st.markdown("- **Allocation des ressources** : déterminez les ressources nécessaires pour prendre en charge chaque scénario et hiérarchisez-les en fonction de leur importance stratégique.")
+    st.markdown("- **Stratégies de recrutement** : Élaborer des stratégies de recrutement de nouveaux talents afin de remédier aux pénuries de compétences qui ne peuvent être comblées par le développement interne.")
 
-    st.markdown("- **Atténuation des risques** : développer des stratégies pour atténuer les risques associés à chaque scénario et garantir que la main-d'œuvre reste agile.")
+    st.markdown("- **Planification des promotions et de la succession** : mettre en œuvre des plans de promotion et de succession pour préparer les candidats internes à des rôles clés.")
+
+    st.markdown("- **Gestion des performances** : mettre en œuvre un système de gestion des performances qui aligne les objectifs individuels avec les objectifs organisationnels, favorisant ainsi une culture de responsabilité.")
 
     st.markdown("")
 
-    st.markdown("La planification de scénarios et la modélisation des effectifs va aider les organisations à se préparer à un large éventail d’avenirs potentiels et à garantir que les besoins en talents correspondent à ces possibilités.")
-
     st.markdown("")
 
 
-if st.button("Continuer vers la suite du Chap.5 - **C/ Identifier les rôles et compétences critiques**"):
+if st.button("Continuer vers la suite du Chap.5 - **C/ Construire une stratégie d’acquisition et de rétention des talents**"):
     
-    st.subheader("📈Chap.5-C/ Identifier rôles et compétences critiques📉")
+    st.subheader("📗Chap.5-C/ Stratégie d’acquisition et de rétention des talents📘")
     
     st.markdown("Tous les rôles ne sont pas égaux en termes d’importance stratégique. L’identification des rôles et des compétences critiques est essentielle pour une planification stratégique efficace.") 
     
