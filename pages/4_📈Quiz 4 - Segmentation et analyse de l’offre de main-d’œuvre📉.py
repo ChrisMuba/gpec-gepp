@@ -189,7 +189,7 @@ def redirect_button(url: str, text: str= None, color="#FD504D"):
         """,
         unsafe_allow_html=True
         )
-redirect_button("https://gpec-gepp.streamlit.app/Quiz_4_-_Segmentation_et_analyse_de_l'offre_de_main-d’œuvre📉","Aller au chapitre 5")
+redirect_button("https://gpec-gepp.streamlit.app/Chapitre_5_🔖_Élaborer_le_plan_stratégique_de_main-d’œuvre","Aller au chapitre 5")
 
 
 
