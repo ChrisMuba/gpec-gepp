@@ -20,7 +20,7 @@ st.markdown("")
 
 if st.button("Cliquez pour acceder au Chap.2 - **A/ Collecte et analyse des données de la main-d'œuvre**"):
     
-    st.subheader("📈Chap.2-A/ Collecte et analyse des données📉")
+    st.subheader("📗Chap.2-A/ Collecte et analyse des données📘")
     
     st.markdown("**Les données constituent le fondement de l'analyse des effectifs**. Les RH doivent collecter et analyser divers types de données pour avoir une **vue d'ensemble de la main-d'œuvre**.") 
     
@@ -66,7 +66,7 @@ with st.sidebar:
 
 if st.button("Continuer vers la suite du Chap.2 - **B/ Détermination des principaux indicateurs de performance**"):
     
-    st.subheader("📈Chap.2-B/ Détermination des principaux KPI📉")
+    st.subheader("📗Chap.2-B/ Détermination des principaux KPI📘")
     
     st.markdown("Les indicateurs clés de performance (KPI) sont des indicateurs critiques qui mesurent la performance et l'efficacité de votre personnel. L'identification et le suivi des bons indicateurs clés de performance sont essentielles pour prendre des décisions éclairées au cours du processus de planification stratégique de la main-d'œuvre.") 
     
@@ -93,7 +93,7 @@ if st.button("Continuer vers la suite du Chap.2 - **B/ Détermination des princi
 
 if st.button("Continuer vers la suite du Chap.2 - **C/ Réaliser une analyse des écarts de compétences**"):
     
-    st.subheader("📈Chap.2-C/ Analyse des écarts de compétences📉")
+    st.subheader("📗Chap.2-C/ Analyse des écarts de compétences📘")
     
     st.markdown("Une analyse des écarts de compétences est un processus systématique d'évaluation des aptitudes, des connaissances et des compétences de votre main-d'œuvre par rapport aux compétences requises pour atteindre vos objectifs stratégiques.") 
     
