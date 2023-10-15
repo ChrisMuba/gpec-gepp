@@ -17,7 +17,7 @@ st.markdown("")
 
 if st.button("Cliquez pour acceder au Chap.5 - **A/ Définir les objectifs et les buts stratégiques**"):
     
-    st.subheader("📗Chap.5-A/ Définir les objectifs et les buts stratégiques📘")
+    st.subheader("📗Chap.5-A/ Définir les objectifs et buts stratégiques📘")
     
     
     st.markdown("La planification stratégique commence par une compréhension claire des objectifs et buts stratégiques de votre organisation. Ce sont les piliers fondamentaux sur lesquels sera construit le plan de main-d’œuvre.")
