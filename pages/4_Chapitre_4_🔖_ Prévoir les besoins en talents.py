@@ -11,9 +11,7 @@ st.sidebar.markdown("# Chapitre 4")
 
 st.title("Segmentation et analyse de l’offre de main-d’œuvre")
 
-st.markdown("Pour garantir que la main-d'œuvre de votre organisation s'aligne sur ses objectifs stratégiques, il est essentiel de segmenter la main-d'œuvre en fonction des rôles et des compétences critiques requis pour réussir.") 
-
-st.markdown("De plus, l’analyse de l’offre de main-d’œuvre, tant en interne qu’en externe, est cruciale pour répondre de manière proactive aux besoins en talents. Ce chapitre explore ces aspects ainsi que l’importance de la planification de la relève et des réserves de talents.") 
+st.markdown("Pour garantir que la main-d'œuvre de votre organisation s'aligne sur ses objectifs stratégiques, il est essentiel de segmenter la main-d'œuvre en fonction des rôles et des compétences critiques requis pour réussir. De plus, l’analyse de l’offre de main-d’œuvre, tant en interne qu’en externe, est cruciale pour répondre de manière proactive aux besoins en talents. Ce chapitre explore ces aspects ainsi que l’importance de la planification de la relève et des réserves de talents.") 
 
 st.markdown("")
 
@@ -26,9 +24,6 @@ if st.button("Cliquez pour acceder au Chap.2 - **A/ Catégoriser la main-d'œuvr
     
     st.markdown("Les étapes clés de la catégorisation de la main-d’œuvre comprennent :") 
 
-
-    
-    
     st.markdown("- **Définition des catégories** : déterminez les catégories ou les segments au sein de votre organisation en fonction de l'importance des rôles et des compétences. Par exemple, identifiez les rôles critiques, clés et de support.") 
     
     st.markdown("- **Analyse des rôles** : évaluer l'impact stratégique de chaque rôle sur les objectifs de l'organisation. Les rôles critiques sont ceux qui influencent de manière significative la réalisation des objectifs stratégiques.")
