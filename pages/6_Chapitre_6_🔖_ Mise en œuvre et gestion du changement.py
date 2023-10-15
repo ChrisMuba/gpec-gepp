@@ -44,25 +44,22 @@ with st.sidebar:
 
 if st.button("Continuer vers la suite du Chap.2 - **B/ Planification de scénarios et modélisation de la main-d'œuvre**"):
     
-    st.subheader("📗Chap.6-B/ Planification de scénarios et modélisation📘")
+    st.subheader("📗Chap.6-B/ Communiquer le plan aux parties prenantes📘")
     
-    st.markdown("La planification de scénarios implique la création de différents scénarios futurs et l’évaluation de leur impact sur les besoins de main-d’œuvre. Cette méthode peut être utilisée pour se préparer à diverses situations potentielles.") 
+    st.markdown("") 
     
-    st.markdown("La modélisation des effectifs complète la planification de scénarios en fournissant une vue détaillée de la manière dont les changements d’effectifs affectent l’organisation.") 
-    
-    st.markdown("Les étapes de la planification de scénarios et de la modélisation des effectifs comprennent :") 
-    
-    st.markdown("- **Création de scénarios** : développez plusieurs scénarios basés sur différentes hypothèses, telles que les conditions économiques, la dynamique du marché ou les progrès technologiques.")
+    st.markdown("- **Identification des parties prenantes** : identifiez toutes les parties prenantes impliquées ou affectées par la planification stratégique. Cela inclut les dirigeants, les chefs de service, les équipes RH et les employés.")
 
-    st.markdown("- **Impacts sur la main-d'œuvre** : évaluez l'impact de chaque scénario sur les besoins en main-d'œuvre, notamment l'embauche, les licenciements, le perfectionnement des compétences ou autre réorganisation.")
+    st.markdown("- **Messages personnalisés** : éadaptez votre communication pour répondre aux préoccupations et aux intérêts spécifiques des différentes parties prenantes. Utilisez un langage qui trouve un écho auprès de chaque groupe.")
 
-    st.markdown("- **Allocation des ressources** : déterminez les ressources nécessaires pour prendre en charge chaque scénario et hiérarchisez-les en fonction de leur importance stratégique.")
+    st.markdown("- **Transparence** : soyez ouvert et transparent sur les objectifs de la planification stratégique de la main-d'œuvre, son impact attendu et les avantages qu'il apportera à l'organisation.")
 
-    st.markdown("- **Atténuation des risques** : développer des stratégies pour atténuer les risques associés à chaque scénario et garantir que la main-d'œuvre reste agile.")
+    st.markdown("- **Mécanismes de rétroaction** : établir des mécanismes de rétroaction qui permettent aux parties prenantes de partager leurs préoccupations, leurs questions et leurs suggestions. Il est essentiel de répondre aux préoccupations de manière proactive pour obtenir l’adhésion.")
 
-    st.markdown("")
+    st.markdown("- **Mises à jour continues** : Tenez les parties prenantes informées des progrès de la planification stratégique et de tout ajustement apporté au plan en fonction de l'évolution des circonstances.")
 
-    st.markdown("La planification de scénarios et la modélisation des effectifs va aider les organisations à se préparer à un large éventail d’avenirs potentiels et à garantir que les besoins en talents correspondent à ces possibilités.")
+    st.markdown("- ** Formation et soutien** : Fournir une formation et un soutien pour garantir que les parties prenantes comprennent leur rôle dans la mise en œuvre du plan.")
+                
 
     st.markdown("")
 
