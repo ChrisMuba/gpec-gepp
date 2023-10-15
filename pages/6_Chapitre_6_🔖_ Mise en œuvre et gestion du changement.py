@@ -44,7 +44,7 @@ with st.sidebar:
 
 if st.button("Continuer vers la suite du Chap.2 - **B/ Planification de scénarios et modélisation de la main-d'œuvre**"):
     
-    st.subheader("📗Chap.6-B/ Communiquer le plan aux parties prenantes📘")
+    st.subheader("📗Chap.6-B/ Communiquer avec les parties prenantes📘")
     
     st.markdown("") 
     
