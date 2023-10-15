@@ -17,7 +17,7 @@ st.markdown("De plus, l’analyse de l’offre de main-d’œuvre, tant en inter
 
 st.markdown("")
 
-if st.button("Cliquez pour acceder au Chap.2 - **A/ Catégoriser la main-d'œuvre en fonction des rôles critiques**"):
+if st.button("Cliquez pour acceder au Chap.4 - **A/ Catégoriser la main-d'œuvre en fonction des rôles critiques**"):
     
     st.subheader("📗Chap.4-A/ Catégoriser en fonction des rôles critiques📘")
     
@@ -47,7 +47,7 @@ with st.sidebar:
 with st.sidebar:
         st.image('GIF/take_notes.gif')
 
-if st.button("Continuer vers la suite du Chap.2 - **B/ Analyse de l'offre de main-d'œuvre (interne ou externe)**"):
+if st.button("Continuer vers la suite du Chap.4 - **B/ Analyse de l'offre de main-d'œuvre (interne ou externe)**"):
     
     st.subheader("📗Chap.4-B/ Analyse de l'offre interne ou externe📘")
     
@@ -74,7 +74,7 @@ if st.button("Continuer vers la suite du Chap.2 - **B/ Analyse de l'offre de mai
     st.markdown("")
 
 
-if st.button("Continuer vers la suite du Chap.2 - **C/ Planification de la relève et pipelines de talents**"):
+if st.button("Continuer vers la suite du Chap.4 - **C/ Planification de la relève et pipelines de talents**"):
     
     st.subheader("📗Chap.4-C/ Planification et pipelines de talents📘")
     
