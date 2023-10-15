@@ -5,11 +5,11 @@ import streamlit as st
 
 st.sidebar.success("Cliquez sur un :blue[chapitre] ou un :blue[quiz]")
 
-st.markdown("# Chapitre 3")
+st.markdown("# Chapitre 6")
 
-st.sidebar.markdown("# Chapitre 3")
+st.sidebar.markdown("# Chapitre 6")
 
-st.title("Prévoir les besoins en talents")
+st.title("Mise en œuvre et gestion du changement")
 
 st.markdown("Prédire les futurs besoins en talents est un aspect crucial de la planification stratégique des effectifs. Cela implique d’anticiper les aptitudes, les rôles et les compétences dont une organisation aura besoin pour atteindre ses objectifs stratégiques.") 
 
@@ -17,9 +17,9 @@ st.markdown("Ce chapitre explore diverses méthodes et stratégies pour prévoir
 
 st.markdown("")
 
-if st.button("Cliquez pour acceder au Chap.2 - **A/ Méthodes de prévision des besoins futurs en main-d’œuvre**"):
+if st.button("Cliquez pour acceder au Chap.6 - **A/ Méthodes de prévision des besoins futurs en main-d’œuvre**"):
     
-    st.subheader("📈Chap.2-A/ Prévision des besoins futurs en main-d’œuvre📉")
+    st.subheader("📗Chap.6-A/ Prévision des besoins futurs en main-d’œuvre📘")
     
     
     st.markdown("Les méthodes de prévision peuvent inclure:") 
@@ -44,7 +44,7 @@ with st.sidebar:
 
 if st.button("Continuer vers la suite du Chap.2 - **B/ Planification de scénarios et modélisation de la main-d'œuvre**"):
     
-    st.subheader("📈Chap.2-B/ Planification de scénarios et modélisation📉")
+    st.subheader("📗Chap.6-B/ Planification de scénarios et modélisation📘")
     
     st.markdown("La planification de scénarios implique la création de différents scénarios futurs et l’évaluation de leur impact sur les besoins de main-d’œuvre. Cette méthode peut être utilisée pour se préparer à diverses situations potentielles.") 
     
@@ -69,7 +69,7 @@ if st.button("Continuer vers la suite du Chap.2 - **B/ Planification de scénari
 
 if st.button("Continuer vers la suite du Chap.2 - **C/ Identifier les rôles et compétences critiques**"):
     
-    st.subheader("📈Chap.2-C/ Identifier rôles et compétences critiques📉")
+    st.subheader("📗Chap.6-C/ Identifier rôles et compétences critiques📘")
     
     st.markdown("Tous les rôles ne sont pas égaux en termes d’importance stratégique. L’identification des rôles et des compétences critiques est essentielle pour une planification stratégique efficace.") 
     
