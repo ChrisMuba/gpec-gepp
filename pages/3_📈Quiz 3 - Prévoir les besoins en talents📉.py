@@ -189,7 +189,7 @@ def redirect_button(url: str, text: str= None, color="#FD504D"):
         """,
         unsafe_allow_html=True
         )
-redirect_button("https://gpec-gepp.streamlit.app/Chapitre_4_🔖_Prévoir_les_besoins_en_talents","Aller au chapitre 3")
+redirect_button("https://gpec-gepp.streamlit.app/Chapitre_4_🔖_Prévoir_les_besoins_en_talents","Aller au chapitre 4")
 
 
 
