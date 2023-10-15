@@ -189,7 +189,7 @@ def redirect_button(url: str, text: str= None, color="#FD504D"):
         """,
         unsafe_allow_html=True
         )
-redirect_button("https://cours-stats-rh.streamlit.app/Chapitre_3_🔖_Introduction_aux_probabilités_et_distributions","Aller au chapitre 3")
+redirect_button("https://gpec-gepp.streamlit.app/Quiz_4_-_Segmentation_et_analyse_de_l'offre_de_main-d’œuvre📉","Aller au chapitre 5")
 
 
 
