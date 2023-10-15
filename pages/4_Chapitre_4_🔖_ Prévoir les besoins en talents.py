@@ -5,24 +5,29 @@ import streamlit as st
 
 st.sidebar.success("Cliquez sur un :blue[chapitre] ou un :blue[quiz]")
 
-st.markdown("# Chapitre 3")
+st.markdown("# Chapitre 4")
 
-st.sidebar.markdown("# Chapitre 3")
+st.sidebar.markdown("# Chapitre 4")
 
-st.title("Prévoir les besoins en talents")
+st.title("Segmentation de la main-d’œuvre et analyse de l’offre de main-d’œuvre")
 
-st.markdown("Prédire les futurs besoins en talents est un aspect crucial de la planification stratégique des effectifs. Cela implique d’anticiper les aptitudes, les rôles et les compétences dont une organisation aura besoin pour atteindre ses objectifs stratégiques.") 
+st.markdown("Pour garantir que la main-d'œuvre de votre organisation s'aligne sur ses objectifs stratégiques, il est essentiel de segmenter la main-d'œuvre en fonction des rôles et des compétences critiques requis pour réussir.") 
 
-st.markdown("Ce chapitre explore diverses méthodes et stratégies pour prévoir les besoins en talents.") 
+st.markdown("De plus, l’analyse de l’offre de main-d’œuvre, tant en interne qu’en externe, est cruciale pour répondre de manière proactive aux besoins en talents. Ce chapitre explore ces aspects ainsi que l’importance de la planification de la relève et des réserves de talents.") 
 
 st.markdown("")
 
-if st.button("Cliquez pour acceder au Chap.2 - **A/ Méthodes de prévision des besoins futurs en main-d’œuvre**"):
+if st.button("Cliquez pour acceder au Chap.2 - **A/ Catégoriser la main-d'œuvre en fonction des rôles critiques**"):
     
-    st.subheader("📈Chap.2-A/ Prévision des besoins futurs en main-d’œuvre📉")
+    st.subheader("📈Chap.2-A/ Catégoriser en fonction des rôles critiques📉")
     
+
+    st.markdown("La segmentation de la main-d'œuvre implique de classer les employés en différentes catégories en fonction de leurs rôles, compétences et contributions à l'organisation. Lorsqu’il s’agit de planification stratégique des effectifs, la catégorisation est essentielle pour concentrer les ressources et les efforts là où elles sont le plus nécessaires.")
     
-    st.markdown("Les méthodes de prévision peuvent inclure:") 
+    st.markdown("Les étapes clés de la catégorisation de la main-d’œuvre comprennent :") 
+
+
+    
     
     st.markdown("- **Analyse des données historiques** : l'examen des données historiques sur la main-d'œuvre, telles que les taux de rotation, les promotions et les tendances de recrutement, peut fournir un aperçu des futurs besoins en talents. Cette méthode est utile pour identifier des modèles récurrents.") 
     
