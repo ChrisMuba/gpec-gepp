@@ -59,24 +59,24 @@ if st.button("Continuer vers la suite du Chap.2 - **B/ Analyse de l'offre de mai
 
     
     
-    st.markdown("- **Création de scénarios** : développez plusieurs scénarios basés sur différentes hypothèses, telles que les conditions économiques, la dynamique du marché ou les progrès technologiques.")
+    st.markdown("- **Évaluation des talents internes** : évaluez l'état de préparation des talents internes pour occuper des rôles critiques. Identifiez les collaborateurs à haut potentiel et évaluez leurs besoins de développement.")
 
-    st.markdown("- **Impacts sur la main-d'œuvre** : évaluez l'impact de chaque scénario sur les besoins en main-d'œuvre, notamment l'embauche, les licenciements, le perfectionnement des compétences ou autre réorganisation.")
+    st.markdown("- **Planification de la succession** : Élaborer des plans de succession pour les rôles critiques, décrivant les successeurs internes potentiels et leurs parcours de développement.")
 
-    st.markdown("- **Allocation des ressources** : déterminez les ressources nécessaires pour prendre en charge chaque scénario et hiérarchisez-les en fonction de leur importance stratégique.")
+    st.markdown("- **Analyse des talents externes** : évaluez la disponibilité des talents en externe, y compris les conditions du marché, la concurrence et les sources de recrutement potentielles.")
 
-    st.markdown("- **Atténuation des risques** : développer des stratégies pour atténuer les risques associés à chaque scénario et garantir que la main-d'œuvre reste agile.")
-
-    st.markdown("")
-
-    st.markdown("La planification de scénarios et la modélisation des effectifs va aider les organisations à se préparer à un large éventail d’avenirs potentiels et à garantir que les besoins en talents correspondent à ces possibilités.")
+    st.markdown("- **Recrutement stratégique** : sur la base de l'analyse, déterminez la meilleure approche pour combler les lacunes en matière de talents, que ce soit par le biais de promotions internes, d'embauches externes ou d'une combinaison des deux.")
 
     st.markdown("")
 
+    st.markdown("En équilibrant l'offre de main-d'œuvre interne et externe, vous pouvez minimiser les coûts de recrutement, réduire les délais de pourvoi pour les postes critiques et garantir un vivier continu de talents.")
 
-if st.button("Continuer vers la suite du Chap.2 - **C/ Identifier les rôles et compétences critiques**"):
+    st.markdown("")
+
+
+if st.button("Continuer vers la suite du Chap.2 - **C/ Planification de la relève et pipelines de talents**"):
     
-    st.subheader("📈Chap.2-C/ Identifier rôles et compétences critiques📉")
+    st.subheader("📈Chap.2-C/ Planification de la relève et pipelines de talents📉")
     
     st.markdown("Tous les rôles ne sont pas égaux en termes d’importance stratégique. L’identification des rôles et des compétences critiques est essentielle pour une planification stratégique efficace.") 
     
