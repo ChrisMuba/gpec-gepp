@@ -51,11 +51,13 @@ if st.button("Continuer vers la suite du Chap.2 - **B/ Analyse de l'offre de mai
     
     st.subheader("📈Chap.2-B/ Analyse de l'offre interne ou externe📉")
     
-    st.markdown("La planification de scénarios implique la création de différents scénarios futurs et l’évaluation de leur impact sur les besoins de main-d’œuvre. Cette méthode peut être utilisée pour se préparer à diverses situations potentielles.") 
+    st.markdown("Comprendre votre offre de main-d'œuvre implique d'évaluer votre capacité à répondre aux besoins en talents, tant au sein de l'organisation que par le biais du recrutement externe. Cette analyse est essentielle pour prendre des décisions éclairées en matière de recrutement, de développement et de planification de la succession.") 
     
-    st.markdown("La modélisation des effectifs complète la planification de scénarios en fournissant une vue détaillée de la manière dont les changements d’effectifs affectent l’organisation.") 
+    st.markdown("")
     
-    st.markdown("Les étapes de la planification de scénarios et de la modélisation des effectifs comprennent :") 
+    st.markdown("Les éléments clés de l’analyse de l’offre de main-d’œuvre comprennent :") 
+
+    
     
     st.markdown("- **Création de scénarios** : développez plusieurs scénarios basés sur différentes hypothèses, telles que les conditions économiques, la dynamique du marché ou les progrès technologiques.")
 
