@@ -21,26 +21,24 @@ st.markdown("Ces questions visent à évaluer la compréhension des concepts cl�
 
 st.markdown("Cocher les bonnes réponses.")
 
-st.header("A/ Statistiques descriptives vs inférentielles")
+st.subheader("1/ Quel est l’objectif principal de la planification stratégique des effectifs ?")
 
-st.subheader("1/ Lequel des énoncés suivants décrit le mieux les statistiques descriptives ?")
-
-check = st.checkbox("a) Techniques pour tirer des conclusions sur une population à partir d'un échantillon de données")
+check = st.checkbox("a) Gérer les tâches RH quotidiennes")
 
 if check:
    st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
-check_2 = st.checkbox("b) Techniques de synthèse et de description des caractéristiques d'un échantillon de données")
+check_2 = st.checkbox("b) Aligner les effectifs sur les objectifs stratégiques")
 
 if check_2:
    st.write("👏🏾**Bonne réponse !** 👍🏾")
 
-check_3 = st.checkbox("c) Techniques de test d'hypothèses sur une population à partir d'un échantillon de données")
+check_3 = st.checkbox("c) Améliorer l'engagement des employés")
 
 if check_3:
   st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
-check_4 = st.checkbox("d) Techniques d'estimation des paramètres de la population avec un haut degré de précision")
+check_4 = st.checkbox("d) Réduire les coûts opérationnels")
 
 if check_4:
    st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
