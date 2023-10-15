@@ -67,29 +67,35 @@ if st.button("Continuer vers la suite du Chap.5 - **B/ Créer des plans d'action
     st.markdown("")
 
 
-if st.button("Continuer vers la suite du Chap.5 - **C/ Construire une stratégie d’acquisition et de rétention des talents**"):
+if st.button("Continuer vers la suite du Chap.5 - **C/ Stratégie d’acquisition et de rétention des talents**"):
     
     st.subheader("📗Chap.5-C/ Stratégie d’acquisition et de rétention des talents📘")
     
-    st.markdown("Tous les rôles ne sont pas égaux en termes d’importance stratégique. L’identification des rôles et des compétences critiques est essentielle pour une planification stratégique efficace.") 
+    st.markdown("L'acquisition et la rétention des meilleurs talents sont une partie essentielle du processus de planification stratégique. L’élaboration d’une solide stratégie d’acquisition et de rétention des talents comprend les éléments clés suivants :") 
     
-    st.markdown("Voici comment procéder :") 
-    
-    st.markdown("- **Objectifs stratégiques** : commencez par comprendre les objectifs stratégiques de votre organisation. Quels rôles et compétences sont les plus cruciaux pour atteindre ces objectifs ?")
+    st.markdown("- **Marque employeur** : Créer et promouvoir une marque employeur attractive qui séduit les candidats à haut potentiel.")
 
-    st.markdown("- **Cartographie des compétences** : créez un cadre de compétences qui décrit les compétences et les connaissances requises pour chaque rôle. Identifiez les compétences essentielles à votre mission.")
+    st.markdown("- **Recrutement et sélection** : développez des processus de recrutement et de sélection efficaces pour identifier et embaucher les candidats les mieux adaptés à votre organisation.")
 
-    st.markdown("- **Analyse d'impact** : évaluez l'impact du fait de ne pas avoir les bonnes personnes dans ces rôles critiques. Cela pourrait inclure des implications financières, opérationnelles ou stratégiques.")
+    st.markdown("- **Intégration** : mettre en œuvre un processus d'intégration structuré pour faciliter une transition en douceur pour les nouvelles recrues.")
 
-    st.markdown("- **Planification de la relève** : élaborer des stratégies pour garantir un vivier de talents pour ces rôles. Cela peut impliquer la préparation de candidats internes, un recrutement stratégique ou des partenariats avec des établissements d'enseignement.")
+    st.markdown("- **Rémunération et avantages** : Concevoir des programmes de rémunération et des avantages sociaux compétitifs pour attirer et retenir les meilleurs talents.")
+
+    st.markdown("- **Développement de carrière** : fournir des voies claires pour le développement de carrière au sein de l'organisation, en présentant des opportunités à long terme.")
+
+    st.markdown("- **Équilibre travail-vie personnelle** : Promouvoir l’équilibre travail-vie personnelle et un environnement de travail sain pour améliorer la rétention des employés.")
+
+    st.markdown("- **Engagement des employés** : mettre en œuvre des stratégies pour favoriser l'engagement des employés, telles que des mécanismes de rétroaction, des programmes de reconnaissance et des opportunités de participation.")
+
+    st.markdown("- **Planification de la relève** : Développez en permanence un vivier de talents internes prêts à assumer des rôles clés.")
 
     st.markdown("")
 
-    st.markdown("L'identification des rôles et des compétences critiques garantit que vos efforts de planification stratégique des effectifs sont concentrés sur les domaines qui ont l'influence la plus significative sur le succès de votre organisation.")
+    st.markdown("La stratégie d'acquisition et de rétention des talents doit être étroitement alignée sur les valeurs, la culture et les objectifs stratégiques de l'organisation.")
 
     st.markdown("")
 
-    st.markdown("En conclusion, la prévision des besoins en talents est un élément clé de la planification stratégique des effectifs. En utilisant des méthodes basées sur les données, la planification de scénarios et la modélisation de la main-d'œuvre, et en identifiant les rôles et compétences critiques, les RH peuvent garantir que leur organisation est prête à répondre aux futures demandes de main-d'œuvre et aux objectifs stratégiques.")
+    st.markdown("En définitive, l'élaboration du plan stratégique en matière de main-d'œuvre implique de traduire les objectifs stratégiques en stratégies RH concrètes. En définissant clairement des objectifs, en créant des plans pour combler les déficits de talents et en élaborant une stratégie d'acquisition et de rétention des talents, les organisations peuvent garantir que leurs effectifs sont alignés sur les objectifs stratégiques et prêts à réussir.")
 
     
 
@@ -113,7 +119,7 @@ if st.button("Continuer vers la suite du Chap.5 - **C/ Construire une stratégie
         """,
         unsafe_allow_html=True
         )
-    redirect_button("https://gpec-gepp.streamlit.app/Quiz_3_-_Pr%C3%A9voir_les_besoins_en_talents📉","Quiz du chapitre 3")
+    redirect_button("https://gpec-gepp.streamlit.app/Quiz_5_-_Prévoir_les_besoins_en_talents📉","Quiz du chapitre 5")
 
     
     
