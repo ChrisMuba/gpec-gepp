@@ -106,7 +106,7 @@ if st.button("Continuer vers la suite du Chap.7 - **C/ Évaluation de l'efficaci
         """,
         unsafe_allow_html=True
         )
-    redirect_button("https://gpec-gepp.streamlit.app/Quiz_7_-_Prévoir_les_besoins_en_talents","Quiz du chapitre 7")
+    redirect_button("https://gpec-gepp.streamlit.app/Quiz_7_-_Contrôle_et_évaluation","Quiz du chapitre 7")
 
     
     
