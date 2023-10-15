@@ -19,7 +19,7 @@ st.markdown("")
 
 if st.button("Cliquez pour acceder au Chap.2 - **A/ Méthodes de prévision des besoins futurs en main-d’œuvre**"):
     
-    st.subheader("📈Chap.2-A/ Prévision des besoins futurs📉")
+    st.subheader("📗Chap.2-A/ Prévision des besoins futurs📘")
     
     
     st.markdown("Les méthodes de prévision peuvent inclure:") 
@@ -44,7 +44,7 @@ with st.sidebar:
 
 if st.button("Continuer vers la suite du Chap.2 - **B/ Planification de scénarios et modélisation de la main-d'œuvre**"):
     
-    st.subheader("📈Chap.2-B/ Planification de scénarios et modélisation📉")
+    st.subheader("📗Chap.2-B/ Planification de scénarios et modélisation📘")
     
     st.markdown("La planification de scénarios implique la création de différents scénarios futurs et l’évaluation de leur impact sur les besoins de main-d’œuvre. Cette méthode peut être utilisée pour se préparer à diverses situations potentielles.") 
     
@@ -69,7 +69,7 @@ if st.button("Continuer vers la suite du Chap.2 - **B/ Planification de scénari
 
 if st.button("Continuer vers la suite du Chap.2 - **C/ Identifier les rôles et compétences critiques**"):
     
-    st.subheader("📈Chap.2-C/ Identifier rôles et compétences critiques📉")
+    st.subheader("📗Chap.2-C/ Identifier rôles et compétences critiques📘")
     
     st.markdown("Tous les rôles ne sont pas égaux en termes d’importance stratégique. L’identification des rôles et des compétences critiques est essentielle pour une planification stratégique efficace.") 
     
