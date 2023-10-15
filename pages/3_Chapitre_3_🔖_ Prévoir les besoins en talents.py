@@ -19,7 +19,7 @@ st.markdown("")
 
 if st.button("Cliquez pour acceder au Chap.2 - **A/ Méthodes de prévision des besoins futurs en main-d’œuvre**"):
     
-    st.subheader("📈Chap.2-A/ Prévision des besoins futurs en main-d’œuvre📉")
+    st.subheader("📈Chap.2-A/ Prévision des besoins futurs📉")
     
     
     st.markdown("Les méthodes de prévision peuvent inclure:") 
