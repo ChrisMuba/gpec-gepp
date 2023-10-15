@@ -42,7 +42,7 @@ with st.sidebar:
 with st.sidebar:
         st.image('GIF/take_notes.gif')
 
-if st.button("Continuer vers la suite du Chap.2 - **B/ Planification de scénarios et modélisation de la main-d'œuvre**"):
+if st.button("Continuer vers la suite du Chap.6 - **B/ Planification de scénarios et modélisation de la main-d'œuvre**"):
     
     st.subheader("📗Chap.6-B/ Communiquer avec les parties prenantes📘")
     
@@ -64,32 +64,32 @@ if st.button("Continuer vers la suite du Chap.2 - **B/ Planification de scénari
     st.markdown("")
 
 
-if st.button("Continuer vers la suite du Chap.2 - **C/ Identifier les rôles et compétences critiques**"):
+if st.button("Continuer vers la suite du Chap.6 - **C/ Gérer le changement organisationnel**"):
     
-    st.subheader("📗Chap.6-C/ Identifier rôles et compétences critiques📘")
+    st.subheader("📗Chap.6-C/ Gérer le changement organisationnel📘")
     
-    st.markdown("Tous les rôles ne sont pas égaux en termes d’importance stratégique. L’identification des rôles et des compétences critiques est essentielle pour une planification stratégique efficace.") 
     
-    st.markdown("Voici comment procéder :") 
-    
-    st.markdown("- **Objectifs stratégiques** : commencez par comprendre les objectifs stratégiques de votre organisation. Quels rôles et compétences sont les plus cruciaux pour atteindre ces objectifs ?")
+    st.markdown("- **Ambassadeurs du changement** : nommez des ambassadeurs du changement au sein de l'organisation qui peuvent aider à guider et à soutenir leurs pairs tout au long du processus.")
 
-    st.markdown("- **Cartographie des compétences** : créez un cadre de compétences qui décrit les compétences et les connaissances requises pour chaque rôle. Identifiez les compétences essentielles à votre mission.")
+    st.markdown("- **Formation et développement** : Fournir les programmes de formation et de développement nécessaires pour doter les employés des compétences et des connaissances requises pour l'évolution de leurs rôles.")
 
-    st.markdown("- **Analyse d'impact** : évaluez l'impact du fait de ne pas avoir les bonnes personnes dans ces rôles critiques. Cela pourrait inclure des implications financières, opérationnelles ou stratégiques.")
+    st.markdown("- **Alignement culturel** : veiller à ce que la culture organisationnelle s'aligne sur les objectifs et les valeurs de la planification stratégique. Cela peut nécessiter des ajustements culturels pour accueillir le changement et l’innovation.")
 
-    st.markdown("- **Planification de la relève** : élaborer des stratégies pour garantir un vivier de talents pour ces rôles. Cela peut impliquer la préparation de candidats internes, un recrutement stratégique ou des partenariats avec des établissements d'enseignement.")
+    st.markdown("- **Canaux de communication** : maintenir des canaux de communication ouverts pour répondre aux préoccupations et rassurer en période de changement.")
+
+    st.markdown("- **Boucles de rétroaction** : mettez en œuvre des boucles de rétroaction qui permettent aux employés d'exprimer leurs pensées, leurs préoccupations et leurs suggestions, et de répondre activement à leurs commentaires.")
+
+    st.markdown("- **Suivi et évaluation** : surveiller en permanence la mise en œuvre de la planification stratégique et évaluer son efficacité. Apportez les ajustements nécessaires pour garantir que le plan reste sur la bonne voie.
+
+    st.markdown("- **Célébrer le succès** : Reconnaître et célébrer les étapes et les succès obtenus grâce à la planification stratégique. Cela peut motiver les employés et susciter l’enthousiasme pour le plan.
 
     st.markdown("")
 
-    st.markdown("L'identification des rôles et des compétences critiques garantit que vos efforts de planification stratégique des effectifs sont concentrés sur les domaines qui ont l'influence la plus significative sur le succès de votre organisation.")
+    st.markdown("Une mise en œuvre efficace et une gestion du changement sont essentielles au succès de votre plan stratégique de main-d’œuvre. En déployant le plan avec des plans d'action clairs, en impliquant les parties prenantes et en gérant le changement organisationnel de manière proactive, vous pouvez vous assurer que votre organisation s'adapte efficacement à la nouvelle stratégie de main-d'œuvre et s'aligne sur ses objectifs stratégiques.")
 
     st.markdown("")
 
-    st.markdown("En conclusion, la prévision des besoins en talents est un élément clé de la planification stratégique des effectifs. En utilisant des méthodes basées sur les données, la planification de scénarios et la modélisation de la main-d'œuvre, et en identifiant les rôles et compétences critiques, les RH peuvent garantir que leur organisation est prête à répondre aux futures demandes de main-d'œuvre et aux objectifs stratégiques.")
-
     
-
     st.markdown("")
 
 
