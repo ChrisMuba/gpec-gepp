@@ -69,7 +69,7 @@ if st.button("Continuer vers la suite du Chap.5 - **B/ Créer des plans d'action
 
 if st.button("Continuer vers la suite du Chap.5 - **C/ Stratégie d’acquisition et de rétention des talents**"):
     
-    st.subheader("📗Chap.5-C/ Stratégie d’acquisition et de rétention des talents📘")
+    st.subheader("📗Chap.5-C/ Acquisition et de rétention des talents📘")
     
     st.markdown("L'acquisition et la rétention des meilleurs talents sont une partie essentielle du processus de planification stratégique. L’élaboration d’une solide stratégie d’acquisition et de rétention des talents comprend les éléments clés suivants :") 
     
