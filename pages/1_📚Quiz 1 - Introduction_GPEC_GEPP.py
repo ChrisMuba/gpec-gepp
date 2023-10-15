@@ -47,80 +47,53 @@ if check_4:
 ########################################################################################################
 
 
-st.header("B/ Types de données et sources de données")
+st.subheader("2/  Comment le rôle des RH a-t-il évolué ces dernières années ?")
 
-st.subheader("1/ Lequel des éléments suivants est un exemple de données quantitatives ?")
-
-check = st.checkbox("a) L'intitulé du poste")
+check = st.checkbox("a) L'attention des RH s'est déplacée uniquement vers les tâches administratives.")
 
 if check:
    st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
-check_2 = st.checkbox("b) Le genre : 👦🏾/👧")
+check_2 = st.checkbox("b)  Les RH sont devenues moins impliquées dans la planification stratégique.")
 
 if check_2:
    st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
-check_3 = st.checkbox("c) Le niveau de qualification")
+check_3 = st.checkbox("c) Les responsabilités RH excluent désormais le développement des talents.")
 
 if check_3:
   st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
-check_4 = st.checkbox("d) Les années d'expérience")
+check_4 = st.checkbox("d) Les RH se sont transformées en partenaire stratégique des organisations.")
 
 if check_4:
    st.write("👏🏾**Bonne réponse !** 👍🏾")
 
 
-st.subheader("2/ Lequel des éléments suivants est une source potentielle de données RH ?")
+st.subheader("3/ Pourquoi est-il crucial de lier la planification des effectifs à la stratégie commerciale ?")
 
-check = st.checkbox("a) Enquêtes clients")
+check = st.checkbox("a) Cela simplifie les responsabilités des RH.")
 
 if check:
    st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
-check_2 = st.checkbox("b) États financiers")
+check_2 = st.checkbox("b) Pour garantir le respect des normes de l’industrie")
 
 if check_2:
    st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
-check_3 = st.checkbox("c) SIRH")
+check_3 = st.checkbox("c) Cela permet à l'organisation de relever de manière proactive les défis liés à la main-d'œuvre.")
 
 if check_3:
   st.write("👏🏾**Bonne réponse !** 👍🏾")
 
-check_4 = st.checkbox("d) Réseaux sociaux")
+check_4 = st.checkbox("d) Cela réduit le besoin d’évaluations de performance")
 
 if check_4:
    st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
 
 ########################################################################################################
-
-
-st.header("C/ Le rôle des statistiques dans les RH")
-
-st.subheader("1/ Quel est le rôle premier des statistiques en RH ?")
-
-check = st.checkbox("a) Garantir la conformité légale des décisions d'embauche et de promotion")
-
-if check:
-   st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-check_2 = st.checkbox("b)  Fournir une base pour évaluer l'efficacité des politiques RH")
-
-if check_2:
-   st.write("👏🏾**Bonne réponse !** 👍🏾")
-
-check_3 = st.checkbox("c) Identifier les tendances et modèles dans les comportement des équipes pour aider à la prise de décision managériale")
-
-if check_3:
-  st.write("**mauvaise réponse**🤪🤪 car il s'agit ici de **modelisation statistique**, bien loin du rôle premier")
-
-check_4 = st.checkbox("d) Fournir un moyen de surveiller la productivité et la performance des employés")
-
-if check_4:
-   st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
 
 st.markdown("")
