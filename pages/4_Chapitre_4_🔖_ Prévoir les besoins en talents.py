@@ -11,7 +11,9 @@ st.sidebar.markdown("# Chapitre 4")
 
 st.title("Segmentation et analyse de l’offre de main-d’œuvre")
 
-st.markdown("Pour garantir que la main-d'œuvre de votre organisation s'aligne sur ses objectifs stratégiques, il est essentiel de segmenter la main-d'œuvre en fonction des rôles et des compétences critiques requis pour réussir. De plus, l’analyse de l’offre de main-d’œuvre, tant en interne qu’en externe, est cruciale pour répondre de manière proactive aux besoins en talents. Ce chapitre explore ces aspects ainsi que l’importance de la planification de la relève et des réserves de talents.") 
+st.markdown("Pour garantir que la main-d'œuvre de votre organisation s'aligne sur ses objectifs stratégiques, il est essentiel de segmenter la main-d'œuvre en fonction des rôles et des compétences critiques requis pour réussir.")
+
+st.markdown("De plus, l’analyse de l’offre de main-d’œuvre, tant en interne qu’en externe, est cruciale pour répondre de manière proactive aux besoins en talents. Ce chapitre explore ces aspects ainsi que l’importance de la planification de la relève et des réserves de talents.") 
 
 st.markdown("")
 
