@@ -6,7 +6,7 @@ import streamlit as st
 
 st.sidebar.success("Cliquez sur un :blue[chapitre] ou un :blue[quiz]")
 
-st.markdown("# Quiz du chapitre 2")
+st.markdown("# Quiz du chapitre 3")
 st.sidebar.markdown("# Quiz du chapitre 2")
 # Add the "made with ❤️ by ..." text in the sidebar
 with st.sidebar:
@@ -14,49 +14,48 @@ with st.sidebar:
 with st.sidebar:
         st.image('GIF/analyze_this.gif')
 
-st.title("Statistiques descriptives")
+st.title("Prévision des besoins en talents")
 
-st.markdown("Ces questions visent à évaluer la compréhension des concepts clés et des sujets abordés dans le cours de **Statistiques descriptives**.")
+st.markdown("Ces questions visent à évaluer la compréhension des concepts clés et des sujets abordés dans le cours de **Prévision des besoins en talents**.")
 
 st.markdown("Cocher les bonnes réponses.")
 
-st.header("A/ Mesures de tendance centrale")
+st.subheader("1/ Parmi les méthodes suivantes, laquelle est couramment utilisée pour prédire les besoins futurs en main-d'œuvre dans la planification stratégique des effectifs ?")
 
-st.subheader("1/ Laquelle des mesures de tendance centrale suivantes est la plus couramment utilisée pour résumer des montants de salaires ?")
-
-check = st.checkbox("a) Mode", key="check1")
+check = st.checkbox("a) Analyse des conditions météorologiques historiques", key="check1")
 if check:
     st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
     
-check_2 = st.checkbox("b) Médiane", key="check2")
+check_2 = st.checkbox("b) Évaluation des scores de satisfaction client", key="check2")
 if check_2:
     st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
     
-check_3 = st.checkbox("c) Moyenne géométrique", key="check3")
+check_3 = st.checkbox("c) Évaluation des niveaux d'engagement actuels des employés", key="check3")
 if check_3:
     st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
     
-check_4 = st.checkbox("d) Moyenne arithmétique", key="check4")
+check_4 = st.checkbox("d) Examen des tendances du secteur et des projections de croissance", key="check4")
 if check_4:
     st.write("👏🏾**Bonne réponse !** 👍🏾")
     
     
 
-st.subheader("2/ Quelle mesure de tendance centrale est la plus appropriée à utiliser lorsque les données incluent des valeurs aberrantes fortement asymétriques")
+st.subheader("2/ Quel est l’objectif principal de la planification de scénarios et de la modélisation des effectifs dans la prévision des talents ?")
 
-check_5 = st.checkbox("a) Mode", key="check5")
+check_5 = st.checkbox("a) Pour prédire les numéros de loterie des employés", key="check5")
 if check_5:
     st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
     
-check_6 = st.checkbox("b) Médiane", key="check6")
+check_6 = st.checkbox("b) Explorer différents scénarios et leur impact potentiel sur les besoins en main-d'œuvre", key="check6")
 if check_6:
     st.write("👏🏾**Bonne réponse !** 👍🏾")
     
-check_7 = st.checkbox("c) Moyenne arithmétique", key="check7")
+check_7 = st.checkbox("c) Déterminer les meilleurs emplacements pour le travail à distance", key="check7")
 if check_7:
     st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
     
-check_8 = st.checkbox("d) Moyenne géométrique", key="check8")
+check_8 = st.checkbox("d) Pour calculer le coût des programmes de formation des employés
+", key="check8")
 if check_8:
     st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
@@ -65,108 +64,30 @@ if check_8:
 ########################################################################################################
 
 
-st.header("B/ Mesures de la variabilité")
+st.subheader("1/ Pourquoi l’identification des rôles et compétences critiques est-elle essentielle dans la prévision des talents ?")
 
-st.subheader("1/ Quelle est la formule pour calculer la variance d'un échantillon ?")
-
-check_9 = st.checkbox("a) somme des écarts à la moyenne / taille de l'échantillon")
+check_9 = st.checkbox("a) Garantir à tous les employés des chances égales de promotion")
 
 if check_9:
    st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
-check_10 = st.checkbox("b) somme des carrés des écarts à la moyenne / taille de l'échantillon")
+check_10 = st.checkbox("b) Déterminer quels employés sont les plus populaires au sein de l'organisation")
 
 if check_10:
    st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
-check_11 = st.checkbox("c) somme des carrés des écarts à la moyenne / (taille de l'échantillon - 1) ")
+check_11 = st.checkbox("c) Aligner les efforts de développement des talents sur les objectifs stratégiques")
 
 if check_11:
   st.write("👏🏾**Bonne réponse !** 👍🏾")
 
-check_12 = st.checkbox("d) somme des écarts à la moyenne / (taille de l'échantillon taille - 1)")
+check_12 = st.checkbox("d) Pour comprendre quels rôles ont les salaires les plus élevés")
 
 if check_12:
    st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
 
-st.subheader("2/ Quelle mesure de variabilité peut être utilisée pour synthétiser des données salariales ?")
-
-check_13 = st.checkbox("a) Écart-type")
-
-if check_13:
-   st.write("👏🏾**Bonne réponse !** 👍🏾")
-
-check_14 = st.checkbox("b) Variance")
-
-if check_14:
-   st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-check_15 = st.checkbox("c) Étendue")
-
-if check_15:
-  st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-check_16 = st.checkbox("d) Coefficient de variation")
-
-if check_16:
-   st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-
 ########################################################################################################
-
-
-st.header("C/ Techniques graphiques")
-
-st.subheader("1/ Quel type de graphique serait le plus approprié pour afficher la répartition des salaires dans une entreprise ?")
-
-check_17 = st.checkbox("a) Graphique à barres")
-
-if check_17:
-   st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-check_18 = st.checkbox("b) Graphique linéaire")
-
-if check_18:
-   st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-check_19 = st.checkbox("c) Graphique circulaire")
-
-if check_19:
-  st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-check_20 = st.checkbox("d) Histogramme")
-
-if check_20:
-   st.write("👏🏾**Bonne réponse !** 👍🏾")
-
-
-st.subheader("2/ Lequel des éléments suivants serait le moins utile pour afficher les données d'une manière qui permette une comparaison facile entre plusieurs groupes ou catégories ?")
-
-check_21 = st.checkbox("a) Boîte à moustaches")
-
-if check_21:
-  st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-check_22 = st.checkbox("a) Graphique à barres empilées")
-
-if check_22:
-   st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-check_23 = st.checkbox("b) Nuage de points")
-
-if check_23:
-   st.write("👏🏾**Bonne réponse !** 👍🏾")
-
-check_24 = st.checkbox("c) Carte thermique")
-
-if check_24:
-  st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-check_25 = st.checkbox("d) Analyse de régression")
-
-if check_25:
-   st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
 
 st.markdown("")
