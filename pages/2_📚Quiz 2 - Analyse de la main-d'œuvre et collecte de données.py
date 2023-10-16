@@ -63,7 +63,7 @@ if check_8:
 ########################################################################################################
 
 
-st.subheader("1/ Quelle est l'intérêt d’identifier des indicateurs clés de performance (KPI) dans l’analyse des effectifs ?")
+st.subheader("3/ Quelle est l'intérêt d’identifier des indicateurs clés de performance (KPI) dans l’analyse des effectifs ?")
 
 check_9 = st.checkbox("a) Les KPI sont utilisés pour les promotions des employés.")
 
