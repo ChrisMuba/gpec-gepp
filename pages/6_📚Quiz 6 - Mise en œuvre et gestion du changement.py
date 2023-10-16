@@ -70,17 +70,17 @@ check_9 = st.checkbox("a) éviter tout changement et maintenir le statu quo")
 if check_9:
    st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
-check_10 = st.checkbox("b) somme des carrés des écarts à la moyenne / taille de l'échantillon")
+check_10 = st.checkbox("b) Apporter des changements brusques et perturbateurs à l'organisation")
 
 if check_10:
    st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
-check_11 = st.checkbox("c) somme des carrés des écarts à la moyenne / (taille de l'échantillon - 1) ")
+check_11 = st.checkbox("c) Aider les employés à traverser en douceur les changements et à s'adapter au nouveau plan de main-d'œuvre")
 
 if check_11:
   st.write("👏🏾**Bonne réponse !** 👍🏾")
 
-check_12 = st.checkbox("d) somme des écarts à la moyenne / (taille de l'échantillon taille - 1)")
+check_12 = st.checkbox("d) Créer de la confusion et du chaos au sein de l'organisation")
 
 if check_12:
    st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
