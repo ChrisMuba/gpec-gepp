@@ -6,8 +6,8 @@ import streamlit as st
 
 st.sidebar.success("Cliquez sur un :blue[chapitre] ou un :blue[quiz]")
 
-st.markdown("# Quiz du chapitre 2")
-st.sidebar.markdown("# Quiz du chapitre 2")
+st.markdown("# Quiz du chapitre 6")
+st.sidebar.markdown("# Quiz du chapitre 6")
 # Add the "made with ❤️ by ..." text in the sidebar
 with st.sidebar:
     st.write("Made with ❤️ by Chris MUBA")
@@ -65,9 +65,7 @@ if check_8:
 ########################################################################################################
 
 
-st.header("B/ Mesures de la variabilité")
-
-st.subheader("1/ Quelle est la formule pour calculer la variance d'un échantillon ?")
+st.subheader("3/ Quelle est la formule pour calculer la variance d'un échantillon ?")
 
 check_9 = st.checkbox("a) somme des écarts à la moyenne / taille de l'échantillon")
 
@@ -90,83 +88,7 @@ if check_12:
    st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
 
-st.subheader("2/ Quelle mesure de variabilité peut être utilisée pour synthétiser des données salariales ?")
-
-check_13 = st.checkbox("a) Écart-type")
-
-if check_13:
-   st.write("👏🏾**Bonne réponse !** 👍🏾")
-
-check_14 = st.checkbox("b) Variance")
-
-if check_14:
-   st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-check_15 = st.checkbox("c) Étendue")
-
-if check_15:
-  st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-check_16 = st.checkbox("d) Coefficient de variation")
-
-if check_16:
-   st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-
 ########################################################################################################
-
-
-st.header("C/ Techniques graphiques")
-
-st.subheader("1/ Quel type de graphique serait le plus approprié pour afficher la répartition des salaires dans une entreprise ?")
-
-check_17 = st.checkbox("a) Graphique à barres")
-
-if check_17:
-   st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-check_18 = st.checkbox("b) Graphique linéaire")
-
-if check_18:
-   st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-check_19 = st.checkbox("c) Graphique circulaire")
-
-if check_19:
-  st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-check_20 = st.checkbox("d) Histogramme")
-
-if check_20:
-   st.write("👏🏾**Bonne réponse !** 👍🏾")
-
-
-st.subheader("2/ Lequel des éléments suivants serait le moins utile pour afficher les données d'une manière qui permette une comparaison facile entre plusieurs groupes ou catégories ?")
-
-check_21 = st.checkbox("a) Boîte à moustaches")
-
-if check_21:
-  st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-check_22 = st.checkbox("a) Graphique à barres empilées")
-
-if check_22:
-   st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-check_23 = st.checkbox("b) Nuage de points")
-
-if check_23:
-   st.write("👏🏾**Bonne réponse !** 👍🏾")
-
-check_24 = st.checkbox("c) Carte thermique")
-
-if check_24:
-  st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
-
-check_25 = st.checkbox("d) Analyse de régression")
-
-if check_25:
-   st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
 
 st.markdown("")
