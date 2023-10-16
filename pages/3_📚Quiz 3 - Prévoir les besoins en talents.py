@@ -54,8 +54,7 @@ check_7 = st.checkbox("c) Déterminer les meilleurs emplacements pour le travail
 if check_7:
     st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
     
-check_8 = st.checkbox("d) Pour calculer le coût des programmes de formation des employés
-", key="check8")
+check_8 = st.checkbox("d) Pour calculer le coût des programmes de formation des employés", key="check8")
 if check_8:
     st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
