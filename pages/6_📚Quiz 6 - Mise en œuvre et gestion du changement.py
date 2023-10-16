@@ -14,49 +14,47 @@ with st.sidebar:
 with st.sidebar:
         st.image('GIF/analyze_this.gif')
 
-st.title("Statistiques descriptives")
+st.title("Mise en œuvre et gestion du changement")
 
-st.markdown("Ces questions visent à évaluer la compréhension des concepts clés et des sujets abordés dans le cours de **Statistiques descriptives**.")
+st.markdown("Ces questions visent à évaluer la compréhension des concepts clés et des sujets abordés dans le cours de **Mise en œuvre et gestion du changement**.")
 
 st.markdown("Cocher les bonnes réponses.")
 
-st.header("A/ Mesures de tendance centrale")
+st.subheader("1/ Quel est l’objectif principal du déploiement d’un plan de main-d’œuvre pendant la phase d'implémentation ?")
 
-st.subheader("1/ Laquelle des mesures de tendance centrale suivantes est la plus couramment utilisée pour résumer des montants de salaires ?")
-
-check = st.checkbox("a) Mode", key="check1")
+check = st.checkbox("a) Apporter des changements immédiats à l'effectif de l'organisation", key="check1")
 if check:
     st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
     
-check_2 = st.checkbox("b) Médiane", key="check2")
+check_2 = st.checkbox("b) Fournir un plan détaillé des vacances des employés", key="check2")
 if check_2:
     st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
     
-check_3 = st.checkbox("c) Moyenne géométrique", key="check3")
+check_3 = st.checkbox("c) Éliminer le besoin d'une gestion continue des ressources humaines", key="check3")
 if check_3:
     st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
     
-check_4 = st.checkbox("d) Moyenne arithmétique", key="check4")
+check_4 = st.checkbox("d) Mettre efficacement la planification stratégique en action, en garantissant son alignement sur les objectifs stratégiques", key="check4")
 if check_4:
     st.write("👏🏾**Bonne réponse !** 👍🏾")
     
     
 
-st.subheader("2/ Quelle mesure de tendance centrale est la plus appropriée à utiliser lorsque les données incluent des valeurs aberrantes fortement asymétriques")
+st.subheader("2/ Pourquoi une communication efficace avec les parties prenantes est-elle cruciale lors de la mise en œuvre de la planification stratégique des effectifs ?")
 
-check_5 = st.checkbox("a) Mode", key="check5")
+check_5 = st.checkbox("a) Pour minimiser la communication et garder les parties prenantes dans l'ignorance des changements", key="check5")
 if check_5:
     st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
     
-check_6 = st.checkbox("b) Médiane", key="check6")
+check_6 = st.checkbox("b) Pour favoriser la compréhension, obtenir l’adhésion et garantir que toutes les parties sont informées et engagées", key="check6")
 if check_6:
     st.write("👏🏾**Bonne réponse !** 👍🏾")
     
-check_7 = st.checkbox("c) Moyenne arithmétique", key="check7")
+check_7 = st.checkbox("c) Pour maintenir le secret et éviter d’impliquer les parties prenantes dans le processus", key="check7")
 if check_7:
     st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
     
-check_8 = st.checkbox("d) Moyenne géométrique", key="check8")
+check_8 = st.checkbox("d) Pour promouvoir les conflits et les désaccords entre les parties prenantes", key="check8")
 if check_8:
     st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
 
@@ -65,9 +63,9 @@ if check_8:
 ########################################################################################################
 
 
-st.subheader("3/ Quelle est la formule pour calculer la variance d'un échantillon ?")
+st.subheader("3/ Quel est l’objectif principal de la gestion du changement organisationnel pendant la mise en œuvre de la planification stratégique des effectifs ?")
 
-check_9 = st.checkbox("a) somme des écarts à la moyenne / taille de l'échantillon")
+check_9 = st.checkbox("a) éviter tout changement et maintenir le statu quo")
 
 if check_9:
    st.write("💩💩pfff... **mauvaise réponse**🤪🤪")
