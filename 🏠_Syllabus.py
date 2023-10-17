@@ -45,7 +45,7 @@ with st.expander("✨:blue[Pourquoi ce cours ?]✨"):
 
     À la fin du cours, les professionnels des RH seront équipés pour s'associer aux dirigeants et planifier une main-d'œuvre qui stimule le succès organisationnel, aujourd'hui et à l'avenir ⏩. Ils auront une vision claire du plan stratégique de main-d'œuvre adapté aux besoins et objectifs spécifiques de leur organisation 🎯.
 
-    Le programme du cours est régulièrement mis à jour pour refléter les dernières tendances, technologies et meilleures pratiques qui influencent la main-d'œuvre 👥. 
+    Le cours est régulièrement mis à jour pour refléter les dernières tendances, technologies et meilleures pratiques qui influencent la main-d'œuvre 👥. 
     
     Que vous soyez un professionnel RH cherchant à perfectionner ses compétences ou cherchant à faire progresser votre carrière, ce cours vous fournira les compétences nécessaires pour faire de la planification stratégique des effectifs une capacité essentielle. 💪
 
