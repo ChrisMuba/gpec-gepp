@@ -21,7 +21,7 @@ st.caption("Vous souhaitez engager une démarche de *GEPP / GPEC* ? Parlons-en �
 # Explanation
 with st.expander("✨:blue[Pourquoi ce cours ?]✨"):
     st.write("""
-    Êtes-vous un professionnel RH souhaitant engager un projet de planification stratégique des effectifs ? 
+    Êtes-vous un professionnel RH engagé dans un projet de planification stratégique des effectifs ? 
     
     Vous souhaitez aligner la main-d’œuvre de votre organisation sur ses objectifs stratégiques ?
 
