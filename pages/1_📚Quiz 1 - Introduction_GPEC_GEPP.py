@@ -13,7 +13,7 @@ st.sidebar.markdown("# Quiz du chapitre 1")
 with st.sidebar:
     st.write("Made with ❤️ by Chris MUBA")
 with st.sidebar:
-        st.image('GIF/copiste.gif')
+        st.image('GIF/bPDKEmlJ.gif')
 
 st.title("Introduction à la planification stratégique des effectifs")
 
