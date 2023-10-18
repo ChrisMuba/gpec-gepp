@@ -41,7 +41,7 @@ if st.button("Cliquez pour acceder au Chap.5 - **A/ Définir les objectifs et le
 with st.sidebar:
     st.write("Made with ❤️ by Chris MUBA")
 with st.sidebar:
-        st.image('GIF/take_notes.gif')
+        st.image('GIF/people.gif')
 
 if st.button("Continuer vers la suite du Chap.5 - **B/ Créer des plans d'action pour combler déficits de talents**"):
     
