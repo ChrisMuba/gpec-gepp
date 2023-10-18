@@ -40,7 +40,7 @@ if st.button("Cliquez pour acceder au Chap.7 - **A/ Indicateurs et mesures de pe
 with st.sidebar:
     st.write("Made with ❤️ by Chris MUBA")
 with st.sidebar:
-        st.image('GIF/take_notes.gif')
+        st.image('GIF/people.gif')
 
 if st.button("Continuer vers la suite du Chap.7 - **B/ Examens et ajustements périodiques des effectifs**"):
     
