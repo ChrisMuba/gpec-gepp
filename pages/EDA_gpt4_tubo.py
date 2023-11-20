@@ -6,7 +6,7 @@ from datetime import datetime
 # Load the dataset
 @st.cache
 def load_data():
-    data = pd.read_csv('turnover_data.csv', parse_dates=['Date_de_recrutement', 'Date_de_départ'])
+    data = pd.read_csv('csv_files/turnover_data.csv', parse_dates=['Date_de_recrutement', 'Date_de_départ'])
     # Correcting gender labels if necessary (assuming 'Homme' is male and 'Femme' is female)
     data['Genre'] = data['Genre'].replace({'Homme': 'Male', 'Femme': 'Female'})
     return data
