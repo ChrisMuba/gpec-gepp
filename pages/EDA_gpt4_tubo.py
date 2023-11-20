@@ -7,7 +7,7 @@ import streamlit as st
 import plotly.express as px
 
 # Next, let's load your dataset. We'll use pandas' read_csv function to load your CSV data into a DataFrame.
-df = pd.read_csv('your_file.csv')
+df = pd.read_csv('csv_files/turnover_data.csv')
 
 # Before we proceed with the analysis, we should check the basic information about the dataset and handle any missing values. We can use the info and describe functions for this.
 st.write(df.info())
